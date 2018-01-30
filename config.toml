@@ -1,0 +1,4 @@
+baseURL = "https://www.scorch.org"
+languageCode = "en-us"
+title = "Scorch.org"
+theme = "after-dark"
