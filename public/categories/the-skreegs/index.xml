@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Skreegs</title>
+    <link>https://www.scorch.org/categories/the-skreegs/</link>
+    <description>Recent content on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Thu, 09 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/categories/the-skreegs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Love2d Policy</title>
+      <link>https://www.scorch.org/archives/love2dpolicy/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/love2dpolicy/</guid>
+      <description>That&amp;rsquo;s one todo off the list. Tonight I knocked up a proposed standard for packaging love2d games in Debian. This is the first technical, contributary, positive, evening activity I&amp;rsquo;ve been able to perform for a few months. That&amp;rsquo;ll be the drugs then. :)</description>
+    </item>
+    
+    <item>
+      <title>Todos &amp; Emerging from the Fog</title>
+      <link>https://www.scorch.org/archives/todos/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/todos/</guid>
+      <description>I suffer from General Anxiety Disorder and the last few months have been a downhill spiral with the last few weeks being the worst I&amp;rsquo;ve ever experienced due to a switch of SRRI&amp;rsquo;s. In the evening&amp;rsquo;s I&amp;quot;ve been utterly unable to contribute to any project beyond the slightest triviality. This week however, the new drugs are kicking in and I&amp;rsquo;m feeling up. Time to get back on the horse and get stuff done.</description>
+    </item>
+    
+    <item>
+      <title>VPS gone</title>
+      <link>https://www.scorch.org/archives/vps-gone/</link>
+      <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/vps-gone/</guid>
+      <description>I&amp;rsquo;ve now knocked up my other Raspberrypi Model B as a web server to replace my slowing VPS. It&amp;rsquo;s performing way better than I expected. I&amp;rsquo;ve set it up with Lighttpd, Postgresql and enabled php-apc to cache php. Php-apc is giving a reasonable speedup of around 30%. The Pi is serving tt-rss external over https, using a server cert from cacert.org. It&amp;rsquo;s also running dokuwiki which basically gets no action.</description>
+    </item>
+    
+    <item>
+      <title>Changes</title>
+      <link>https://www.scorch.org/archives/changes/</link>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/changes/</guid>
+      <description>Blog In an effort to increase my geekdom I&amp;rsquo;ve moved my blog over to Pelican and AWS S3. I don&amp;rsquo;t have anything against cloud hosting for information that is deemed publically available and I need to learn AWS for work. My VIP is also slowing down the past few months so it&amp;rsquo;s time for it to go.
+Hosting At home I have a PC acting as a server. It&amp;rsquo;s a Sempron with 4GB of ram.</description>
+    </item>
+    
+    <item>
+      <title>Mame4all-pi</title>
+      <link>https://www.scorch.org/archives/mame4all-pi/</link>
+      <pubDate>Sat, 16 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/mame4all-pi/</guid>
+      <description>Mame4all is the ONLY way to play mame on the Pi. Combined with DISPMANX it gives a near 50% performance increase and perfect sound. AWESOME! Get it here.
+https://code.google.com/p/mame4all-pi/</description>
+    </item>
+    
+    <item>
+      <title>MongCade Update</title>
+      <link>https://www.scorch.org/archives/mongcade-update/</link>
+      <pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/mongcade-update/</guid>
+      <description>Roughly on schedule the final physical build is complete. It&amp;rsquo;s turned out very well with only the usual audio issues from advmame on the Pi. Here&amp;rsquo;s the parts list.
+* Raspberry Pi $40
+* Ultimarc miniPac keyboard encoder ($60 delivered from USA)
+* Powered USB hub from BigW ($15)
+* 2x Sticks $34
+* 8x buttons $20
+* 2x 1w Champ amplifier kits from Jaycar $15
+* 2x 8w speakers from Jaycar $24</description>
+    </item>
+    
+    <item>
+      <title>Libre Status Update</title>
+      <link>https://www.scorch.org/archives/libre-status-update/</link>
+      <pubDate>Fri, 28 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/libre-status-update/</guid>
+      <description>While I&amp;rsquo;m a Free Software Activist and want to get more involved I certainly don&amp;rsquo;t practise 100% what I preach. I have the following devices in my home.
+ 1 Windows Netbook - It&amp;rsquo;s Hazel&amp;rsquo;s and will be replaced when it dies 1 Debian Wheezy Desktop - It has and AMD gfx card and runs binary firmware. It also contains various binary games. I think the only binary applicaiton on it is flash.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s alive!</title>
+      <link>https://www.scorch.org/archives/its-alive/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/its-alive/</guid>
+      <description>Mamecab update.
+ Boot to Advmenu now worky Ultimarc minipac installed and working Player 1 stick and buttons in and working  </description>
+    </item>
+    
+    <item>
+      <title>...but not got telly</title>
+      <link>https://www.scorch.org/archives/but-not-got-telly/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/but-not-got-telly/</guid>
+      <description>I&amp;rsquo;d collected a couple of portable telly&amp;rsquo;s to use in my mame cab. The picture quality with Black Tiger running is outstanding. Just like a mini arcade machine. However, some inquiries how I might utilise the power inside the telly has warned me off of using a CRT. Telly&amp;rsquo;s are inheritantly dangerous beasts and I&amp;rsquo;d underestimated just how dodgy they can be. Since I&amp;rsquo;m not a CRT repair man and I&amp;rsquo;m probably going to be inside this box quite a lot (and I have kids who quite like their dada) I&amp;rsquo;m going to compromise and stick to an LCD.</description>
+    </item>
+    
+    <item>
+      <title>Got Sticks!</title>
+      <link>https://www.scorch.org/archives/got-sticks/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/got-sticks/</guid>
+      <description>Got my sticks today. I went for the reputable Sanwa variety. They feel of hardcore arcade greatness. A nice selection buttons too. Can&amp;rsquo;t do anything with them though till I get my Ultimarc mini-pac which was just ordered from the US.
+On the software side I have advancemame running reasonably well with the Pi clocked up to 900Mhz. It plays Greenberet, Black Tiger etc at full speed which makes me well happy.</description>
+    </item>
+    
+    <item>
+      <title>Random Things In Odd Places #1</title>
+      <link>https://www.scorch.org/archives/random-things-in-odd-places-1/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/random-things-in-odd-places-1/</guid>
+      <description>A great thing about having kids is constantly finding random objects sitting in places they shouldn&amp;rsquo;t be and since we&amp;rsquo;re always busy doing more important things these objects will sometimes sit in their place for days or weeks on end before someone can be bothered moving them.
+I kept meaning to start a series of Random Thing in Odd Places. So here&amp;rsquo;s #1. It&amp;rsquo;s a harmonica, in it&amp;rsquo;s case sitting on the shelf above the toilet.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Mame Bartop</title>
+      <link>https://www.scorch.org/archives/raspberry-pi-mame-bartop/</link>
+      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/raspberry-pi-mame-bartop/</guid>
+      <description>I always wanted to build a MAME cabinet but the plan was to wait till the kids were bigger and I had more time on my hands. Mame Cabs are generally big, full sized things and have a full PC in them. Big, clunky and expensive to build and run.
+Enter the RaspberryPi!
+I&amp;rsquo;m now intending to build a bartop mame cabinet. Just big enough to fit two people playing side by side so probably no bigger than a 17&amp;rdquo; screen.</description>
+    </item>
+    
+    <item>
+      <title>GNOME 3. Why Red Hat?</title>
+      <link>https://www.scorch.org/archives/gnome-3-why-red-hat/</link>
+      <pubDate>Mon, 30 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/gnome-3-why-red-hat/</guid>
+      <description>Lots has been written on GNOME3 already so I&amp;rsquo;ll make this quick (probably not). Let&amp;rsquo;s start with some facts.
+  GNOME2 was the primary desktop of Linux and the majority of Distributions. It is after all considered GNU software. GNOME is driven by Red Hat as they pay the wages of the main developers. Red Hat sells server software.  There&amp;rsquo;s a conundrum or two there. Consumer devices are rushing towards tablets and the main players, Apple, Microsoft, Google and to a lesser extent Ubuntu and a bunch of Android resellers, are following them as expected.</description>
+    </item>
+    
+    <item>
+      <title>Real Ultimate Failure</title>
+      <link>https://www.scorch.org/archives/real-ultimate-failure/</link>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/real-ultimate-failure/</guid>
+      <description>Well that didn&amp;rsquo;t last long. 4 weeks after returning to Kung Fu I&amp;rsquo;ve quit it for good. While I&amp;rsquo;d been pleased with the initial sessions after a few weeks the training took it&amp;rsquo;s toll on my joints which gradually increased in discomfort and started getting quite sore. Couple that with the stage of training which involves lots of jump kicks it it became quite clear I couldn&amp;rsquo;t sustain it.
+So since then I&amp;rsquo;ve been cycling to work to keep my fitness up but now I&amp;rsquo;ve found even that difficult.</description>
+    </item>
+    
+    <item>
+      <title>Kung Fu Return</title>
+      <link>https://www.scorch.org/archives/kung-fu-return/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/kung-fu-return/</guid>
+      <description>I thought I&amp;rsquo;d write this down so I don&amp;rsquo;t forget when it happened. After a lapse of nearly 2 1/2 years which has seen me visit various specialists, had numerous scans and a double hip arthroscope, I returned to Kung Fu training last night. The session went well but I expected the worst today since I did have quite sore hip joints. Today though I only have normal muscle soreness from training and no joint pain whatsoever.</description>
+    </item>
+    
+    <item>
+      <title>I just go icky ficky!</title>
+      <link>https://www.scorch.org/archives/i-just-go-icky-ficky/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/i-just-go-icky-ficky/</guid>
+      <description>.. I just go, icky ficky ficky!
+It&amp;rsquo;s all getting a bit out of control. The mythtv box, which I&amp;rsquo;m now running tt-rss and roundcube on frequently crashes running out of memory. Turns out it&amp;rsquo;s only ever had 1 GB of ram in it which is pretty good going for a combined back/frontend. I&amp;rsquo;ve had to disable apache to keep the WAF. I&amp;rsquo;ve ordered a Zotac ND22 for a frontend from PriceUSA (about $300 delivered) and it&amp;rsquo;s on its way.</description>
+    </item>
+    
+    <item>
+      <title>Exit The Cloud - One Month On</title>
+      <link>https://www.scorch.org/archives/exit-the-cloud-one-month-on/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exit-the-cloud-one-month-on/</guid>
+      <description>So where are a month after my tirade against the oppression of freedom and liberty?
+Macbook Pro has been sold. They hold their value quite well and the money from it (a 4 year old machine) paid for the build of my new Debian desktop plus some left over. That, plus the cash from my HTC Desire leaves me some $500 in profit from this venture.
+Debian and the WAF. Photo management is lacking in linux.</description>
+    </item>
+    
+    <item>
+      <title>Exited The Cloud #7</title>
+      <link>https://www.scorch.org/archives/exited-the-cloud-7/</link>
+      <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exited-the-cloud-7/</guid>
+      <description>I&amp;rsquo;m about 90% towards where I wanted to be which is pretty good. Let&amp;rsquo;s see the score card.
+Cloud
+ GMail  Replaced by Fastmail.fm. This is still cloud side but self hosting email is a nasty business. My self hosting platform is still immature. I do have a self hosted roundcube though for accessing it from anywhere (work).
+ Google Reader  Replaced by self hosted Tiny Tiny RSS. Works really well.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #6</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-6/</link>
+      <pubDate>Sat, 05 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-6/</guid>
+      <description>In order to dump the Mac I need to replace it with something that meets the equivalent Wife Acceptance Factor. I&amp;rsquo;ve managed to lower the WAF a bit by explaining why I&amp;rsquo;m doing this. She appears to agree, or at the very least, allowed me to my madness.
+I&amp;rsquo;ve knocked up her a user on Debian. Made it nice and purple and put her usual apps in a dock similar to the Mac.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #5</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-5/</link>
+      <pubDate>Thu, 24 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-5/</guid>
+      <description>Traction Edge is now officially over at Sourceforge. I&amp;rsquo;m quite happy with this as Sourceforge&amp;rsquo;s kit is a level up from Googlecodes in terms of functions. I now get to make a pretty website for TE.
+I&amp;rsquo;ve also made inroads into self hosting but it takes some work. My initial plan is to replace Google Reader with Tiny Tiny RSS. Apache though, if you haven&amp;rsquo;t done much work with it, takes a bit of kicking to get into shape.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #4</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-4/</link>
+      <pubDate>Thu, 17 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-4/</guid>
+      <description>I&amp;rsquo;ve been angling towards self hosting over the last couple of days. Firstly I just shrugged off the idea as being too much hassle, possibly costly, difficult to maintain etc. The more I thought about it the more I warmed to it though. I mean, all I need to do is poke some holes for what I need (www only really) and make sure I have a proper backup. I&amp;rsquo;d start off with SVN, move this blog there, integrated some video streaming plugin for the clan to what kidlet videos and then think about tackling mail.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #3</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-3/</link>
+      <pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-3/</guid>
+      <description>So actually ignoring the cloud for the moment and returning to Kitten Ranch. The primary offender onsite is our MacBook Pro. This, being the main computer, was purchased and put in operation because &amp;ldquo;it just works&amp;rdquo;. After years of faffing around with Linux I wanted something stable and good. Good it has been. It&amp;rsquo;s fast, stable, Hazel mostly likes it and it does it&amp;rsquo;s job well. How far can we extract ourselves from it though?</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #1</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-1/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-1/</guid>
+      <description>So the Exit The Cloud/Be A Bolshy Arse strategy is underway.
+Let&amp;rsquo;s see how we&amp;rsquo;re doing so far.
+Apple
+My home PC is a Macbook Pro. I need to install and use Linux on it instead.
+ Debian Squeeze is (probably) released next week. I&amp;rsquo;ll assess that then.  Social Networking
+I have an identi.ca and twitter account. Noone uses Identi.ca and I’ve only started using Twitter since the floods. I can easily cancel both accounts.</description>
+    </item>
+    
+    <item>
+      <title>The Importance Of Being Open</title>
+      <link>https://www.scorch.org/archives/the-importance-of-being-open/</link>
+      <pubDate>Sat, 29 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/the-importance-of-being-open/</guid>
+      <description>Last week at LCA2011, Mark Pesce delivered a compelling keynote speech on privacy. His premise was this;
+We are enticed into giving up information about ourselves to closed systems. Facebook being the worst offender. The kind of data we give up forms a social graph. This graph can be used through the phenomenon of mimesis to manipulate us.
+Let me explain that a bit more incase you&amp;rsquo;ve failed to read Mark&amp;rsquo;s entire post.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Molly Catherine Hamilton</title>
+      <link>https://www.scorch.org/archives/molly-catherine-hamilton/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/molly-catherine-hamilton/</guid>
+      <description>&amp;gt;Bubzilla #2 arrived yesterday 31st December 2009 at 5.17pm with no drama at all. Hazel had some &amp;ldquo;stomach pains&amp;rdquo; overnight which developed into minor contractions in the morning. After all the chaos of Cooper&amp;rsquo;s birth we were reluctant to even phone in, only to be sent home again. However, they were fairly regular and speeding up fast. 15 mins apart at 9am then 10mins apart at 1pm. We phoned in, Cooper was at daycare and in we went with bags packed.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah 0.6.3 kicked out the door</title>
+      <link>https://www.scorch.org/archives/moolah-0-6-3-kicked-out-the-door/</link>
+      <pubDate>Wed, 10 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-0-6-3-kicked-out-the-door/</guid>
+      <description>&amp;gt;It&amp;rsquo;s quite alarming that the more I hack on moolah the more bugs I find and probably the more I introduce. I&amp;rsquo;m just not paying attention and applying the correct gumption in learning to code tightly and more professionally. My coding time is so limited that it always boils down to be a case of &amp;lsquo;get it in, ooh it works, let&amp;rsquo;s not bother tidying it up, right what&amp;rsquo;s next?&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>&gt;More maintenance</title>
+      <link>https://www.scorch.org/archives/more-maintenance/</link>
+      <pubDate>Fri, 15 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/more-maintenance/</guid>
+      <description>&amp;gt;Getting quite large chunks of dev time on moolah recently but it all seems to be going on maintenance of the existing code. I&amp;rsquo;m still not what you would call an experienced Cocoa coder but even already I look back at previous code and think wtf! I&amp;rsquo;m almost embarrassed to be in the same room as myself.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah dev overboard</title>
+      <link>https://www.scorch.org/archives/moolah-dev-overboard/</link>
+      <pubDate>Wed, 25 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-dev-overboard/</guid>
+      <description>&amp;gt;Well ok, not quite overboard but at very least we&amp;rsquo;ve left the marina. After a lovely hiatus of drinking cheap wine, eating biscuits and playing Mass Effect I&amp;rsquo;ve picked up moolah dev again. It always gets a bit slow when something I&amp;rsquo;m writing reaches a functional level that I&amp;rsquo;m happy with myself but I&amp;rsquo;ve reached a point now where certain things are pissing even me off. Like the disorderly budget window, the slow transaction updates, the crash if you click save too quick and the complete lack of reporting and search functions.</description>
+    </item>
+    
+    <item>
+      <title>I love wood with wood on it</title>
+      <link>https://www.scorch.org/archives/i-love-wood-with-wood-on-it/</link>
+      <pubDate>Thu, 08 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/i-love-wood-with-wood-on-it/</guid>
+      <description>Trainset by Toys&amp;rsquo;r&amp;rsquo;Us. Table by Ozzy. After the Thomas Tank engine exhibition at the Ipswich railway museum I realised we needed a table quicksmart so I got stuck into it. What we have here is a mitred frame surrounded by a larger mitred frame to provide a lip and facia. The legs are fixed to both the frame and facia with gold coloured bolts. The table top is standard 15x600x900mm MDF which is double sided.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah v0.6 - Thoughts on releases</title>
+      <link>https://www.scorch.org/archives/moolah-v0-6-thoughts-on-releases/</link>
+      <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-v0-6-thoughts-on-releases/</guid>
+      <description>&amp;gt;A few weeks ago I knocked out the first release of moolah. This, being 0.5 and pretty rough, was done under the &amp;ldquo;release early, release often&amp;rdquo; advice that google and many other Open Source developers preach. Does this really hold for a Mac app though? In general, Mac users aren&amp;rsquo;t used to unfinished, unpolished, buggy apps. They&amp;rsquo;re a bit &amp;ldquo;ordinary&amp;rdquo; (I suppose you could almost say snobby) in that they like they&amp;rsquo;re apps to be v1.</description>
+    </item>
+    
+    <item>
+      <title>&gt;CoopCamp #1</title>
+      <link>https://www.scorch.org/archives/coopcamp-1/</link>
+      <pubDate>Sun, 02 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/coopcamp-1/</guid>
+      <description>&amp;gt;This weekend we went camping for the first time since The Miniskreeg showed up. I have a camping checklist and it now has a &amp;ldquo;Cooper&amp;rdquo; section in it with unforgettable items like dummies, portacots and ehgoo&amp;rsquo;s. Camping always has something missing but the impact of forgetting the unforgettable when there&amp;rsquo;s a baby involved is a magnitute greater than normal. Luckily, all we forgot was good weather, which was both a blessing and a curse.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Swim swim swim!</title>
+      <link>https://www.scorch.org/archives/swim-swim-swim/</link>
+      <pubDate>Tue, 28 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/swim-swim-swim/</guid>
+      <description>&amp;gt;The trick to a happy evening is to tire the child out during the day. Keeping him &amp;ldquo;cooped&amp;rdquo; up in the house drives everyone nuts so at weekends we like to get out places. Cooper loves pools, water, skiddling, anything wet related. Sunday we took him up to the Redcliffe lagoon which is a nice pool area beside the seaside. This kid is going to be swimming unaided before he&amp;rsquo;s 3 I reckon.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolahDev</title>
+      <link>https://www.scorch.org/archives/moolahdev/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolahdev/</guid>
+      <description>&amp;gt;One thing I&amp;rsquo;ve noticed when reading a lot of dev blogs is that people get burnt out and take a break. I&amp;rsquo;ve just hit the same thing and now realise why. I was on a coding splurge, believing I was close to getting moolah to a point where I could run it &amp;ldquo;in production&amp;rdquo; with my own accounts. Some odd things started happening and I realised a whole chunk of calculating code is all wrong and does exactly what a frog does when trying to get to the other side a river with a jumping strategy that involves each new jump being exactly half the distance of the last one.</description>
+    </item>
+    
+    <item>
+      <title>Toybox complete</title>
+      <link>https://www.scorch.org/archives/toybox-complete/</link>
+      <pubDate>Sun, 26 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/toybox-complete/</guid>
+      <description>Actually its been complete for a while but I&amp;rsquo;m just slow at getting pictures online. It&amp;rsquo;s turned out great for something made out of scrap wood by an IT bloke who knows nothing about wood (I love wood). Everything a toddler could ask for. Nice bright paint, heavy duty varnish and a chain to trap the fingers when gravity and the lid conspire against him (again).
+{% img /static/images/img_2830.jpg 640 %}</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah for Mac</title>
+      <link>https://www.scorch.org/archives/moolah-for-mac/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-for-mac/</guid>
+      <description>&amp;gt;As I said below I&amp;rsquo;m now a budding Mac developer. To learn any programming language I always need a personal project that fills a gap that can&amp;rsquo;t be filled from anywhere else. In this case its a decent personal finance program. Out recent run in with the bank manager has left us a bit strapped and I always new cash flow was a bit of a problem since we moved here.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Incursion Roguelike</title>
+      <link>https://www.scorch.org/archives/incursion-roguelike/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/incursion-roguelike/</guid>
+      <description>&amp;gt;For some reason I never got around to writing about this before. Some months ago I decided to get into Mac software development but being a jaded gamer that can&amp;rsquo;t see to stay on the wagon I was addicted to a game called Incursion-Roguelike. Incursion is a classic roguelike in the same vein as the famous Nethack and Adom but uses the D20 ruleset from Wizards of the Coast. Think a Nethack version of Neverwinter Nights and you have it.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Miniskreeg walks!</title>
+      <link>https://www.scorch.org/archives/miniskreeg-walks/</link>
+      <pubDate>Sat, 13 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/miniskreeg-walks/</guid>
+      <description>&amp;gt;Well he took his time getting around to it but at 1 year and 2 days little Miniskreeg finally decided to start walking on his own. It&amp;rsquo;s like a switch has just turned on enabling him to do it. Amazingly, we caught it on video as well. Here we go.
+http://vimeo.com/moogaloop.swf?clip_id=1722270&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1
+I&amp;rsquo;m trying out Vimeo instead of youtube this time as I hear the quality is better.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Skreegles</title>
+      <link>https://www.scorch.org/archives/skreegles/</link>
+      <pubDate>Sat, 12 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/skreegles/</guid>
+      <description>&amp;gt;A brief update of what can be described in business speak as &amp;ldquo;where we&amp;rsquo;re at and what we look like going forward&amp;rdquo;.
+HousePainters are finishing off the outside next week. The project is then complete with only the inside to be finished. We&amp;rsquo;re trying to get that done quick smart as Coop is almost needing somewhere to stretch his legs.
+CarsDisaster: The Beast has a busted gearbox. No idea whats wrong but its going to involve dropping the box out the thing and taking a look at whats most likely pieces of shrapnel.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Blather #1</title>
+      <link>https://www.scorch.org/archives/blather-1/</link>
+      <pubDate>Wed, 28 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/blather-1/</guid>
+      <description>&amp;gt;Today&amp;rsquo;s an oddly grey day and apparently its supposed to rain all week. We get so used to Brisbane weather with its clear blue skies and comfortable temperatures during the non-summer months that its actually surprising and a little perplexing when its overcast. Its just so unusual to see.
+I&amp;rsquo;m off ill yesterday and today with what is an excellent effort by Cooper to kill off his dad with exotic diseases from daycare.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Cooper vids</title>
+      <link>https://www.scorch.org/archives/cooper-vids/</link>
+      <pubDate>Wed, 28 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/cooper-vids/</guid>
+      <description>&amp;gt;A whole buncha new Miniskreeg vids courtesy of glootube. He&amp;rsquo;s 8.5 months now and crawling, laughin, grabbing, screamin, falling, hurting, laughing, crawling, crawling and crawling. Did I say he could crawl?
+http://www.youtube.com/p/0FB67FE2B571AED8
+There&amp;rsquo;s 6 videos in all. You click on the little grey bits left and right to change between them. If thats too hard you can go here.</description>
+    </item>
+    
+    <item>
+      <title>&gt;7 months on</title>
+      <link>https://www.scorch.org/archives/7-months-on/</link>
+      <pubDate>Mon, 14 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/7-months-on/</guid>
+      <description>&amp;gt;Hard to believe Cooper is 7 months old now. When I look at him now its very hard to remember the little baby he used to be. He&amp;rsquo;s changed so much and is more a little boy now than a baby. He&amp;rsquo;s still got the cold and has done ever since he started daycare. Toblerones are few and far between as well which makes us worry slightly about another relapse into compact bowel mode.</description>
+    </item>
+    
+    <item>
+      <title>Sorry Mr Bank Manager...</title>
+      <link>https://www.scorch.org/archives/sorry-mr-bank-manager/</link>
+      <pubDate>Sun, 24 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/sorry-mr-bank-manager/</guid>
+      <description>&amp;hellip;but I had to do it. While I have cash in the bank I decided to buy another car. We&amp;rsquo;ve up/downgraded to a 1999 Pajero (Shogun to old world folks). Its got real low mileage and its real clean for an 8 year old car. It does however, have a heart breaking 3.5ltr petrol donk in it. The reasoning is that in order to go camping we need more space. Baby + Car seat + Camping gear does not in any way equal a Grande Vitara so it has to go and I owe nature a slice of my soul when I die.</description>
+    </item>
+    
+    <item>
+      <title>Woah there slow down!</title>
+      <link>https://www.scorch.org/archives/woah-there-slow-down/</link>
+      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/woah-there-slow-down/</guid>
+      <description>7 days of builders doing stuff so far and they&amp;rsquo;ve done a hella lot. Amazing what you can do when someones giving you money to do it. Stuff done so far? Deck ripped up, sealed and nearly tiled, new concrete slab down underneath, round side and behind carport for the tank. Posts and cross timbers in for car port. Frame up for walls and back extension. There&amp;rsquo;s stuff just everywhere. Its like some mad builders construction bomb has went off.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Coopermergency</title>
+      <link>https://www.scorch.org/archives/coopermergency/</link>
+      <pubDate>Thu, 07 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/coopermergency/</guid>
+      <description>&amp;gt;Lille Cooperman was rushed into the hozzie last friday morning. Some violent vomiting followed by going limp and extremely white prompted us to get an ambulance pronto. 3 hours and an ultrasound later confirmed it as an&amp;hellip;. wait for it&amp;hellip;.. intersusection of the bowel. Yeah I know, wtf is that you say? Its when the bowel, not being the brightest organ in the trunk decides to push itself into itself telescopic style.</description>
+    </item>
+    
+    <item>
+      <title>I love wood...</title>
+      <link>https://www.scorch.org/archives/i-love-wood/</link>
+      <pubDate>Thu, 07 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/i-love-wood/</guid>
+      <description>&amp;hellip; and just look at how much of it I&amp;rsquo;ve bought.
+Yep, a little over a year and 2 months after getting plans drawn up we&amp;rsquo;ve finally got movement on the Kitten Ranch Expansion Project (KREP). We&amp;rsquo;ve got wood, steel beams, some concrete sheeting and a big feck off rusty builders trailer full of hidden secrets and black mojo. Rumour has it there&amp;rsquo;s some builders showing up at some point tomorrow to start dismantling the rear deck.</description>
+    </item>
+    
+    <item>
+      <title>&gt;A finer cog count on the sprocket of time.</title>
+      <link>https://www.scorch.org/archives/a-finer-cog-count-on-the-sprocket-of-time/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/a-finer-cog-count-on-the-sprocket-of-time/</guid>
+      <description>&amp;gt;Time these days is weird. Time used to work like this. You would do stuff, then do more stuff, then even more stuff then say something like &amp;ldquo;geez where has the last year went&amp;rdquo; or &amp;ldquo;remember that stuff we done? That was five years ago what happened?&amp;quot;. This is because in general every day terms not a lot changes that fast. You age so slowly you don&amp;rsquo;t notice it until you try and do Kung Fu.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Reno fun.</title>
+      <link>https://www.scorch.org/archives/reno-fun/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/reno-fun/</guid>
+      <description>&amp;gt;We&amp;rsquo;ve finally, nine months after getting plans drawn up, engaged a builder to start the extension of Freedom Cottage. However, 2 months in and engaged is all we&amp;rsquo;ve managed to do. Windows and steel is ordered but there&amp;rsquo;s some trouble with the concrete slab underneath. The council here demand thousands of dollars if you want to change your curtains and the certifier wants proof the slab underneath if cool. This is a problem.</description>
+    </item>
+    
+    <item>
+      <title>&gt;God is weird</title>
+      <link>https://www.scorch.org/archives/god-is-weird/</link>
+      <pubDate>Wed, 31 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/god-is-weird/</guid>
+      <description>&amp;gt;After the emergence of Sprogzilla I&amp;rsquo;ve gave a bit of thought towards Intelligent Design. The extremes of the birthing process, from the pain of delivery to the love of the result, seems too freakish to be the product of just random evolution.
+Another factor lending credence to this theory is one of limbs. We&amp;rsquo;ve discovered that the average parent requires a minimum of three arms to successfully administer to the needs of a baby.</description>
+    </item>
+    
+    <item>
+      <title>Cooper James Hamilton. The Birth.</title>
+      <link>https://www.scorch.org/archives/cooper-james-hamilton-the-birth/</link>
+      <pubDate>Mon, 17 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/cooper-james-hamilton-the-birth/</guid>
+      <description>Cooper James Hamilton was born on 11/09/2007 at 18.10 weighing 8lbs 9oz and this is his story.
+Monday 5am
+Mum jumps out of bed having felt her waters break. Excitement takes hold, we phone the hospital and they tell us to come in. We, probably naively, phone relatives and we get into the hospital at about 7am. An examination ensues and membranes are still present over the babies head. Waters can break up behind the babies head but though they can&amp;rsquo;t confirm this they treat it like it&amp;rsquo;s broken anyway.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Double Ding</title>
+      <link>https://www.scorch.org/archives/double-ding/</link>
+      <pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/double-ding/</guid>
+      <description>&amp;gt;Due date today. Last 24 hours Hazel&amp;rsquo;s been having slight painful contractions randomly between 14 and 30 minutes. Still can&amp;rsquo;t be called the start of labour but it does make me think somethings gonna happen in the next couple of days. Let&amp;rsquo;s take a guess at a hospital visit Monday morning. Let&amp;rsquo;s say I have to go to work on Monday morning then have to come home again as soon as I get there.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Ding! Time&#39;s up</title>
+      <link>https://www.scorch.org/archives/ding-times-up/</link>
+      <pubDate>Fri, 17 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/ding-times-up/</guid>
+      <description>&amp;gt;Yay! Today the bell finally when on the Oven of Sprogzilla. MiniSkreeg is now 37 weeks and full term. Come out and tidy your room! We&amp;rsquo;re basically just waiting now. Everything is prepared, room ready, little socks ironed, hospital bags packed. All we need now is a good ol&amp;rsquo; flex of the uterus.
+I suppose I should write something about how I feel coming up to this life changing event but I find the gestation process, and the preparation work you do during it has taken so long that it&amp;rsquo;s kinda taken away some of the impact.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Glasshouse Mountains</title>
+      <link>https://www.scorch.org/archives/glasshouse-mountains/</link>
+      <pubDate>Fri, 17 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/glasshouse-mountains/</guid>
+      <description>&amp;gt;Oh the joy of a non-updated blog.
+While the outlaws were visiting over July time I exploited the presence of 2 larger males in the group as a reason to wheeling. We met up with a ragtag log from the Outerlimits4x4 forum and off we went into the bush at the Glasshouse Mountains. This is an area the zook club go to quite often but somehow I&amp;rsquo;ve never got there. The trouble with going with the Outerlimits crew is since it&amp;rsquo;s not an official club the trip is lacking a certain feeling of safety and responsibility.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Gadget Detox</title>
+      <link>https://www.scorch.org/archives/gadget-detox/</link>
+      <pubDate>Sun, 24 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/gadget-detox/</guid>
+      <description>&amp;gt;For some bizarre reason I decided to spend the entire week free of gadgets. No mobile phone, no mp3 player, no nintendo DS and no computer at home for 7 days. Is this actually possible for a Type A personality that&amp;rsquo;s been gaming since 1982? No it&amp;rsquo;s not.
+Last Sunday went ok. I got on with some DIY, dug a hole, found a pipe, broke a pipe, fixed a pipe then realised the pipe was in the wrong place so it was no use to me anyway.</description>
+    </item>
+    
+    <item>
+      <title>Myth PoC</title>
+      <link>https://www.scorch.org/archives/myth-poc/</link>
+      <pubDate>Sat, 12 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/myth-poc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Press Play On Tape</title>
+      <link>https://www.scorch.org/archives/more-press-play-on-tape/</link>
+      <pubDate>Thu, 03 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/more-press-play-on-tape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pumpkin Man</title>
+      <link>https://www.scorch.org/archives/pumpkin-man/</link>
+      <pubDate>Thu, 03 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pumpkin-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beast Carnage</title>
+      <link>https://www.scorch.org/archives/beast-carnage/</link>
+      <pubDate>Mon, 09 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/beast-carnage/</guid>
+      <description>Gran and Grandpa Skreeg were over visiting during the last month. I thought it would be nice to take Grandpa Skreeg out &amp;ldquo;wheeling&amp;rdquo; in The Beast[tm], a 1992 Suzuki Sierra. It&amp;rsquo;s pretty much stock with only a body lift and 29&amp;rdquo; tyres on it but I love it to bits. It&amp;rsquo;s good fun. Anyway, ol Papa Skreeg used to do a bit of rally driving in his younger years and spent most of life hotting up cars in some form or another so you&amp;rsquo;d think he would be able to pick a line in a 4wd travelling at less than walking speed.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Miniskreeg</title>
+      <link>https://www.scorch.org/archives/introducing-miniskreeg/</link>
+      <pubDate>Sun, 08 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/introducing-miniskreeg/</guid>
+      <description>The 13 week scan was over a month ago now but no less a significant event now than it was then. I&amp;rsquo;ve always looked at pictures of other peoples scans with almost complete disinterest. A static photo just simply doesn&amp;rsquo;t do the event justice. The image is basically a real time &amp;ldquo;slice&amp;rdquo; of the baby and surrounding paraphernalia. Each frame taken by itself looks like a mess but with the doctor moving the &amp;ldquo;camera&amp;rdquo; back and forth the image constantly changes.</description>
+    </item>
+    
+    <item>
+      <title>Rate My Egg</title>
+      <link>https://www.scorch.org/archives/rate-my-egg/</link>
+      <pubDate>Sun, 08 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/rate-my-egg/</guid>
+      <description>It&amp;rsquo;s Happy Zombie Jesus weekend and we&amp;rsquo;ve done our eggs. Which one is best? The loser gets rolled a lot faster than a mortal ovum can survive.
+Judge Egg.
+[]: http://bp0.blogger.com/_MKqlq3WVEmY/RhiG9TnBYbI/AAAAAAAAAAk/aHwu-Chrhvg/s320/00020.jpg [![][]]: http://bp0.blogger.com/_MKqlq3WVEmY/RhiG9TnBYbI/AAAAAAAAAAk/aHwu-Chrhvg/s1600-h/00020.jpg [1]: http://bp3.blogger.com/_MKqlq3WVEmY/RhiHUDnBYcI/AAAAAAAAAAs/2nPVKdJe5lI/s320/00021.jpg [![][1]]: http://bp3.blogger.com/_MKqlq3WVEmY/RhiHUDnBYcI/AAAAAAAAAAs/2nPVKdJe5lI/s1600-h/00021.jpg</description>
+    </item>
+    
+    <item>
+      <title>Welcome to The Skreegs online!</title>
+      <link>https://www.scorch.org/archives/welcome-to-the-skreegs-online/</link>
+      <pubDate>Sun, 08 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/welcome-to-the-skreegs-online/</guid>
+      <description>It seems this internet thing is quite popular and I see lots of people like to write blog thingies about their lives so other folk can see how much more dull there&amp;rsquo;s is in comparison. In an effort to make ours less dull I&amp;rsquo;ve decided to start writing a blog thingy myself. Hey, I&amp;rsquo;ve only written a couple of sentences and I can feel my life becoming more interesting already. It really works!</description>
+    </item>
+    
+  </channel>
+</rss>

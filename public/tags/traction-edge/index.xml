@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traction Edge on The Skreegs</title>
+    <link>https://www.scorch.org/tags/traction-edge/</link>
+    <description>Recent content in Traction Edge on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Sat, 11 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/tags/traction-edge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TeRL Idea</title>
+      <link>https://www.scorch.org/archives/terl_idea/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/terl_idea/</guid>
+      <description>Just had a game idea. Let&amp;rsquo;s write and talk at the same time!
+I&amp;rsquo;ve been playing Shadowrun Returns. Love the graphics, love the simplified action points, love the cover system. Don&amp;rsquo;t like that the game is on rails so much. What if we had a vertically scrolling roguelike? The Traction Edge has occurred. It creeps up from the bottom of the screen and if it reaches our intrepid policeman it&amp;rsquo;s all over.</description>
+    </item>
+    
+    <item>
+      <title>Attack code sucks</title>
+      <link>https://www.scorch.org/archives/attack-code-sucks/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/attack-code-sucks/</guid>
+      <description>Now I&amp;rsquo;m back into the actual game proper and done with PCG for the time being, I&amp;rsquo;ve quickly realised that my old ranged attack code sucks quite badly. I also jammed melee attack code into it without fully realising how sucky it was. The result is some ugly components that are out of order and also are probably wrongly tightly coupled to the AI system as well.
+Ah, I had good 3 months since my last re-factoring exercise.</description>
+    </item>
+    
+    <item>
+      <title>PCG Screenshot</title>
+      <link>https://www.scorch.org/archives/pcg-screenshot/</link>
+      <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-screenshot/</guid>
+      <description>I&amp;rsquo;m really quite pleased with how its turned out. Not bad for a first attempt at all. It&amp;rsquo;s also flexible enough to be able to make it easy to create other map types like villages, towns, cities etc.
+Here&amp;rsquo;s a screenshot.
+{% img /static/images/tepcg.png 640 %}</description>
+    </item>
+    
+    <item>
+      <title>PCG Phase 1 Complete</title>
+      <link>https://www.scorch.org/archives/pcg-phase-1-complete/</link>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-phase-1-complete/</guid>
+      <description>Phew, that took some doing. For my first PCG map &amp;ldquo;farm&amp;rdquo; I&amp;rsquo;ve used Cellular Automation for tree generation. This took some tweaking to get right with some random variables liberally sprinkled to get the right amount of clumping and spacing. I didn&amp;rsquo;t want a cavern type thick forest and it was only a couple of integers away from wide open fields with only trees around the edges. Still, I&amp;rsquo;ve enough to get on with.</description>
+    </item>
+    
+    <item>
+      <title>Ok, more PCG</title>
+      <link>https://www.scorch.org/archives/ok-more-pcg/</link>
+      <pubDate>Mon, 30 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/ok-more-pcg/</guid>
+      <description>Just had a wee play through. I&amp;rsquo;m not very happy with the state of PCG as it is. If I left it as it is I&amp;rsquo;d have to live with it for probably 6 months or more and it&amp;rsquo;ll just piss me off. So, targets are.
+* Correct meandering roads and rivers.
+* Correct blocks of trees
+* Fill routines etc to deal with above.
+The fill thing has me interested.</description>
+    </item>
+    
+    <item>
+      <title>PCG draft 1 complete</title>
+      <link>https://www.scorch.org/archives/pcg-draft-1-complete/</link>
+      <pubDate>Fri, 27 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-draft-1-complete/</guid>
+      <description>PCG is up to a state now that I can move on a bit. Currently I have one scenario, the farm. 2 sizes of construction, random trees and a dirst road. The trees and road I&amp;rsquo;m not happy with but it&amp;rsquo;ll do just now.
+I now need to figure out how progression works. Static content needs to be removed just niw then slotted in somehow later. It&amp;rsquo;s working out how the game scales the difficulty.</description>
+    </item>
+    
+    <item>
+      <title>PCG Update</title>
+      <link>https://www.scorch.org/archives/pcg-update/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-update/</guid>
+      <description>Good progress today. A trip to Sydney resulted in much code being written on the plane and in the airport. I now have 5x5 and 10x10 building placement into a base map with the config for each scenario parsed from xml files. Next up is to tighten up the code as the rands spring up the occasional segfault. Then it&amp;rsquo;s a job of weighting the placement a bit more central so buildings aren&amp;rsquo;t so much jammed against the edges of the map.</description>
+    </item>
+    
+    <item>
+      <title>TE on Freegamer</title>
+      <link>https://www.scorch.org/archives/te-on-freegamer/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-on-freegamer/</guid>
+      <description>Traction Edge landed a news post on freegamer this week. Cool! Cept, now 25 people have downloaded my source in 2 days, more than my current 2 year total. Will I have guilt for not working on it? No! Because I am working on it!. muha!
+  </description>
+    </item>
+    
+    <item>
+      <title>PCG Progress</title>
+      <link>https://www.scorch.org/archives/pcg-progress/</link>
+      <pubDate>Thu, 05 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-progress/</guid>
+      <description>I&amp;rsquo;ve successfully switched my PCG code from the convoluted BSP code to the much simpler map squares alah UFO(Xcom). The square size of 5x5 seems a nice fit too. I&amp;rsquo;ve also got masking in so buildings that don&amp;rsquo;t entirely fill the square simply overlay on top of the ground already there.
+I&amp;rsquo;ve decided buildings, instead of being procedurally generated will be drawn statically and stored in a tilemap (Tiled to the rescue again).</description>
+    </item>
+    
+    <item>
+      <title>TE and PCG</title>
+      <link>https://www.scorch.org/archives/te-and-pcg/</link>
+      <pubDate>Fri, 30 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-and-pcg/</guid>
+      <description>I&amp;rsquo;m now plugging away at procedural maps. Maps are created for &amp;ldquo;scenarios&amp;rdquo;, e.g. Farm, Village, City, Dungeon etc. With custom code for each without obvious reuse where possible. Buildings are then generated and placed into the map where there is space. Finding space is the tricky part. At first I attempted using a BSP to divide the space up. This proved too hard as to cater for different sized buildings I had to traverse an overlapping map of &amp;ldquo;nodes&amp;rsquo; that may or may not have buildings in there children.</description>
+    </item>
+    
+    <item>
+      <title>TE progress</title>
+      <link>https://www.scorch.org/archives/te-progress/</link>
+      <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-progress/</guid>
+      <description>ARRP 2011 is now two months gone and I&amp;rsquo;ve so far, in my usual slow fashion, implemented melee. I&amp;rsquo;m becoming more conscious of the usability of the interface as this is exacerbated by the success of indie games recently. User&amp;rsquo;s have higher expectations and Indie games these days have to strive to be as professional as larger company products. I thought I could get away with poor UI by sticking to the roguelike genre but now even RL&amp;rsquo;s are coming out with slick interfaces (Dredmor, Cardinal Quest).</description>
+    </item>
+    
+    <item>
+      <title>Traction Edge v0.2 Released</title>
+      <link>https://www.scorch.org/archives/traction-edge-v0-2-released/</link>
+      <pubDate>Wed, 21 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/traction-edge-v0-2-released/</guid>
+      <description>I&amp;rsquo;ve finally got another release successfully out he door last weekend. v0.2 was punted out for the ARRP 2011. Main changes were updated AI, reaction fire and stats affecting gameplay.
+Since I&amp;rsquo;m only distributing source, and since the source is always available and a release is only a sort of stable branch, I&amp;rsquo;m going to aim at more regular releases. Here&amp;rsquo;s the next features coming up.
+ Melee Opening Doors Civilians and more mobs.</description>
+    </item>
+    
+    <item>
+      <title>Terminal Monotony</title>
+      <link>https://www.scorch.org/archives/terminal-monotony/</link>
+      <pubDate>Sun, 07 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/terminal-monotony/</guid>
+      <description>My coding fruition reaches new lows as it&amp;rsquo;s taken nearly 10 weeks to implement a save game feature. My god that was dull. In the end though, it actually turned out easier, and more monotonous than I thought. Loading all the data in and bootstrapping the game at whatever screen I&amp;rsquo;ve chosen was a minimum of fuss and did show up some bad design decisions made during my &amp;ldquo;just get it in and working&amp;rdquo; coding sprees.</description>
+    </item>
+    
+    <item>
+      <title>Serialised Monotony</title>
+      <link>https://www.scorch.org/archives/serialised-monotony/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/serialised-monotony/</guid>
+      <description>I&amp;rsquo;m now starting to implement the savegame feature in Traction Edge. A worthwhile and necessary task that&amp;rsquo;s sure to propel it into the annals of gaming history. It&amp;rsquo;s incredibly tedious though. I&amp;rsquo;m using TinyXML so that&amp;rsquo;s the file IO burden removed but trawling through all the objects needing to be saved out is already irritating me and I&amp;rsquo;ve only been at it for an hour.
+Still, it can&amp;rsquo;t all be glamourous coding of AI and accidentally asymmetric field of view algorithms can it?</description>
+    </item>
+    
+    <item>
+      <title>Reactions</title>
+      <link>https://www.scorch.org/archives/reactions/</link>
+      <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/reactions/</guid>
+      <description>An important feature of any XCom-a-like is opportunity fire, or reaction fire. This means when you click to move your wee man and he starts moving towards his destination, if an enemy see&amp;rsquo;s him there&amp;rsquo;s a chance of the opposition getting a free shot at him, during your turn, if they have action points and win some kind of initiative. This also means that you can &amp;ldquo;save&amp;rdquo; points during your turn for possible reaction fire during the enemies turn.</description>
+    </item>
+    
+  </channel>
+</rss>

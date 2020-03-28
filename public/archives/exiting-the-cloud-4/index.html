@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Exiting The Cloud #4 - The Skreegs</title>
+  <meta property="og:title" content="Exiting The Cloud #4 - The Skreegs" />
+  <meta name="twitter:title" content="Exiting The Cloud #4 - The Skreegs" />
+  <meta name="description" content="I&rsquo;ve been angling towards self hosting over the last couple of days. Firstly I just shrugged off the idea as being too much hassle, possibly costly, difficult to maintain etc. The more I thought about it the more I warmed to it though. I mean, all I need to do is poke some holes for what I need (www only really) and make sure I have a proper backup. I&rsquo;d start off with SVN, move this blog there, integrated some video streaming plugin for the clan to what kidlet videos and then think about tackling mail.">
+  <meta property="og:description" content="I&rsquo;ve been angling towards self hosting over the last couple of days. Firstly I just shrugged off the idea as being too much hassle, possibly costly, difficult to maintain etc. The more I thought about it the more I warmed to it though. I mean, all I need to do is poke some holes for what I need (www only really) and make sure I have a proper backup. I&rsquo;d start off with SVN, move this blog there, integrated some video streaming plugin for the clan to what kidlet videos and then think about tackling mail.">
+  <meta name="twitter:description" content="I&rsquo;ve been angling towards self hosting over the last couple of days. Firstly I just shrugged off the idea as being too much hassle, possibly costly, difficult to maintain etc. The more I thought …">
+  <meta name="author" content="Foo Bar"/>
+  <meta property="og:site_name" content="The Skreegs" />
+  <meta property="og:url" content="/archives/exiting-the-cloud-4/" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/css/syntax.css" media="all" />
+  <link rel="stylesheet" href="/css/custom.css" media="all" />
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="site-navi">
+    <h1 class="site-title"><a href="/">The Skreegs</a></h1>
+    <ul class="site-navi-items">
+      <li class="site-navi-item-categories"><a href="/categories/" title="Categories">Categories</a></li>
+      <li class="site-navi-item-tags"><a href="/tags/" title="Tags">Tags</a></li>
+      <li class="site-navi-item-archives"><a href="/archives/" title="Archives">Archives</a></li>
+    </ul>
+  </nav>
+</header>
+<hr class="site-header-bottom">
+
+  <div class="main" role="main">
+    <article class="article">
+      
+      
+      <h1 class="article-title">Exiting The Cloud #4</h1>
+      
+      <hr class="article-title-bottom">
+      <ul class="article-meta">
+        <li class="article-meta-date"><time>February 17, 2011</time></li>
+        <li class="article-meta-categories">
+          <a href="/categories/the-skreegs/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#folder"></use></svg>
+            The Skreegs
+          </a>&nbsp;
+        </li>
+        <li class="article-meta-tags">
+          <a href="/tags/open-source-traction-edge/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#tag"></use></svg>
+            Open Source, Traction Edge
+          </a>&nbsp;
+        </li>
+      </ul>
+      
+      <p>I&rsquo;ve been angling towards self hosting over the last couple of days.
+Firstly I just shrugged off the idea as being too much hassle, possibly
+costly, difficult to maintain etc. The more I thought about it the more
+I warmed to it though. I mean, all I need to do is poke some holes for
+what I need (www only really) and make sure I have a proper backup. I&rsquo;d
+start off with SVN, move this blog there, integrated some video
+streaming plugin for the clan to what kidlet videos and then think about
+tackling mail. Job done. A Total Cloud Exit Event[tm].</p>
+<p><strong>Exiting Google Code</strong></p>
+<p>So this evening I&rsquo;ve been wrestling with svnsync as I want my full
+repository and history for TE and google code won&rsquo;t let me do a svnadmin
+dump. 2 hours in I&rsquo;ve actually got it working but now realised it&rsquo;s a
+bit trickier than first thought. I need a hosted, local, on the wire SVN
+so I can sync from the Mac and my Netbook. That means putting SVN hosted
+on the server. Now this server is no ordinary server. It&rsquo;s the
+BeanBox[tm] so called because Cooper uses it to watch Mr Bean. As in,
+it&rsquo;s a MythTV media server. It&rsquo;s also running ancient technology, AGP
+vid card, LGA775 P4. It also sits under the house next to the water
+boiler and is frequently exposed to 30C+ for long periods. This box
+breaks often and is the bane of my life.</p>
+<p>So, in order to do any self hosting at all I need to do the MythTV
+refresh I&rsquo;ve been putting off in order to get some robustness to the
+platform. This means splitting the Frontend off into a SFF unit of some
+kind. Sticking that to the back of the telly allowing me to move the
+backend server into the house downstairs where it belongs. I can then
+hang some backup disk off it and give it cuddles or glaring looks when
+it needs it.</p>
+<p>This is where I start to spend money. A FrontEnd unit will probably skin
+me $300+ as I insist on silence in the living room. No Asrock or Zotac
+nonsense here.</p>
+<p>In the meantime I think I&rsquo;ll sync my repository to Sourceforge if I can.</p>
+
+    </article>
+
+    
+<ul class="article-share">
+  <li>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </li>
+  <li>
+    <div class="fb-share-button" data-href="https://www.scorch.org/archives/exiting-the-cloud-4/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  </li>
+  <li>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <g:plus action="share"></g:plus>
+  </li>
+  <li>
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  </li>
+  <li>
+    <a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+    <script>!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+  </li>
+</ul>
+
+    <ul class="pager article-pager">
+      <li class="pager-newer">
+          <a href="/archives/exiting-the-cloud-5/" data-toggle="tooltip" data-placement="top" title="Exiting The Cloud #5">&lt; Newer</a>
+      </li>
+      <li class="pager-older">
+        <a href="/archives/exiting-the-cloud-3/" data-toggle="tooltip" data-placement="top" title="Exiting The Cloud #3">Older &gt;</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="site-footer">
+  <div class="copyright">&copy; Copyright 2017 Foo Bar</div>
+  <ul class="site-footer-items">
+  </ul>
+  <div class="powerdby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>
+  </div>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/custom.js"></script>
+
+
+</body>
+</html>

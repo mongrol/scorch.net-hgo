@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>MongCade Update - The Skreegs</title>
+  <meta property="og:title" content="MongCade Update - The Skreegs" />
+  <meta name="twitter:title" content="MongCade Update - The Skreegs" />
+  <meta name="description" content="Roughly on schedule the final physical build is complete. It&rsquo;s turned out very well with only the usual audio issues from advmame on the Pi. Here&rsquo;s the parts list.
+* Raspberry Pi $40
+* Ultimarc miniPac keyboard encoder ($60 delivered from USA)
+* Powered USB hub from BigW ($15)
+* 2x Sticks $34
+* 8x buttons $20
+* 2x 1w Champ amplifier kits from Jaycar $15
+* 2x 8w speakers from Jaycar $24">
+  <meta property="og:description" content="Roughly on schedule the final physical build is complete. It&rsquo;s turned out very well with only the usual audio issues from advmame on the Pi. Here&rsquo;s the parts list.
+* Raspberry Pi $40
+* Ultimarc miniPac keyboard encoder ($60 delivered from USA)
+* Powered USB hub from BigW ($15)
+* 2x Sticks $34
+* 8x buttons $20
+* 2x 1w Champ amplifier kits from Jaycar $15
+* 2x 8w speakers from Jaycar $24">
+  <meta name="twitter:description" content="Roughly on schedule the final physical build is complete. It&rsquo;s turned out very well with only the usual audio issues from advmame on the Pi. Here&rsquo;s the parts list.
+* Raspberry Pi $40
+* …">
+  <meta name="author" content="Foo Bar"/>
+  <meta property="og:site_name" content="The Skreegs" />
+  <meta property="og:url" content="/archives/mongcade-update/" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/css/syntax.css" media="all" />
+  <link rel="stylesheet" href="/css/custom.css" media="all" />
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="site-navi">
+    <h1 class="site-title"><a href="/">The Skreegs</a></h1>
+    <ul class="site-navi-items">
+      <li class="site-navi-item-categories"><a href="/categories/" title="Categories">Categories</a></li>
+      <li class="site-navi-item-tags"><a href="/tags/" title="Tags">Tags</a></li>
+      <li class="site-navi-item-archives"><a href="/archives/" title="Archives">Archives</a></li>
+    </ul>
+  </nav>
+</header>
+<hr class="site-header-bottom">
+
+  <div class="main" role="main">
+    <article class="article">
+      
+      
+      <h1 class="article-title">MongCade Update</h1>
+      
+      <hr class="article-title-bottom">
+      <ul class="article-meta">
+        <li class="article-meta-date"><time>February 12, 2013</time></li>
+        <li class="article-meta-categories">
+          <a href="/categories/the-skreegs/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#folder"></use></svg>
+            The Skreegs
+          </a>&nbsp;
+        </li>
+        <li class="article-meta-tags">
+          <a href="/tags/raspberrypi/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#tag"></use></svg>
+            raspberrypi
+          </a>&nbsp;
+        </li>
+      </ul>
+      
+      <p>Roughly on schedule the final physical build is complete. It&rsquo;s turned
+out very well with only the usual audio issues from advmame on the Pi.
+Here&rsquo;s the parts list.</p>
+<p>* Raspberry Pi $40<br>
+* Ultimarc miniPac keyboard encoder ($60 delivered from USA)<br>
+* Powered USB hub from BigW ($15)<br>
+* 2x Sticks $34<br>
+* 8x buttons $20<br>
+* 2x 1w Champ amplifier kits from Jaycar $15<br>
+* 2x 8w speakers from Jaycar $24<br>
+* Various cables/plugs/box etc from Jaycar $20<br>
+* MDF from Bunnings $60<br>
+* Vinyl from ebay $8<br>
+* LG 1710B 17&rdquo; monitor from somewhere over a decade ago.<br>
+* Edimax tiny wifi dongle $11</p>
+<p>In terms of software we have the following;<br>
+* Raspian (current)<br>
+* AdvanceMame 1.18? (whatever was before 1.20)<br>
+* AdvanceMenu for a frontend<br>
+* SDL DISPMANX backend (awesome!)</p>
+<p>Config overview<br>
+* Pulseaudio removed (Poettering is a menace)<br>
+* 950Mhz overclock<br>
+* All software scaling disabled (DISPMANX does it for free)<br>
+* Advmenu and Advmame shortcuts tuned for UI goodness without a
+keyboard.</p>
+<p>Instead of the usual &ldquo;get every rom from pleasesuredome&rdquo; approach I&rsquo;ve
+decided to hand pick my games. Less games mean they get played more so
+I&rsquo;ll start with those I loved playing as a teenager and also only run
+ones that work well. Here&rsquo;s some pics</p>
+<p>{% img /static/images/20130211_004.jpg 640 %}</p>
+<p>{% img /static/images/20130211_0021.jpg 640 %}</p>
+<p>While it&rsquo;s a bit busy under the panel with the minipac loom its actually
+quite roomy at the back. The cabinet was designed in Blender to scale
+and I&rsquo;ll post the .blend file shortly.</p>
+
+    </article>
+
+    
+<ul class="article-share">
+  <li>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </li>
+  <li>
+    <div class="fb-share-button" data-href="https://www.scorch.org/archives/mongcade-update/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  </li>
+  <li>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <g:plus action="share"></g:plus>
+  </li>
+  <li>
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  </li>
+  <li>
+    <a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+    <script>!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+  </li>
+</ul>
+
+    <ul class="pager article-pager">
+      <li class="pager-newer">
+          <a href="/archives/mame4all-pi/" data-toggle="tooltip" data-placement="top" title="Mame4all-pi">&lt; Newer</a>
+      </li>
+      <li class="pager-older">
+        <a href="/archives/libre-status-update/" data-toggle="tooltip" data-placement="top" title="Libre Status Update">Older &gt;</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="site-footer">
+  <div class="copyright">&copy; Copyright 2017 Foo Bar</div>
+  <ul class="site-footer-items">
+  </ul>
+  <div class="powerdby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>
+  </div>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/custom.js"></script>
+
+
+</body>
+</html>

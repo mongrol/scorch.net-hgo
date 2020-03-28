@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Language Indecision - The Skreegs</title>
+  <meta property="og:title" content="Language Indecision - The Skreegs" />
+  <meta name="twitter:title" content="Language Indecision - The Skreegs" />
+  <meta name="description" content="I feel like moving back to Love2d and Lua. Nothing wrong with Python as such and I still prefer that over Lua but the pysdl2 has some issues. Let&rsquo;s do a procon.
+Python/PySDL
+Cons;
+ It&rsquo;s relatively low level. Even to do something as simple as scaling or rotating forces you to dive down into SDL itself. No community. The pygame community doesn&rsquo;t count. SDL docs are terrible. Really. Nowhere near as feature rich as Love2d.">
+  <meta property="og:description" content="I feel like moving back to Love2d and Lua. Nothing wrong with Python as such and I still prefer that over Lua but the pysdl2 has some issues. Let&rsquo;s do a procon.
+Python/PySDL
+Cons;
+ It&rsquo;s relatively low level. Even to do something as simple as scaling or rotating forces you to dive down into SDL itself. No community. The pygame community doesn&rsquo;t count. SDL docs are terrible. Really. Nowhere near as feature rich as Love2d.">
+  <meta name="twitter:description" content="I feel like moving back to Love2d and Lua. Nothing wrong with Python as such and I still prefer that over Lua but the pysdl2 has some issues. Let&rsquo;s do a procon.
+Python/PySDL
+Cons;
+ It&rsquo;s …">
+  <meta name="author" content="Foo Bar"/>
+  <meta property="og:site_name" content="The Skreegs" />
+  <meta property="og:url" content="/archives/indecision/" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/css/syntax.css" media="all" />
+  <link rel="stylesheet" href="/css/custom.css" media="all" />
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="site-navi">
+    <h1 class="site-title"><a href="/">The Skreegs</a></h1>
+    <ul class="site-navi-items">
+      <li class="site-navi-item-categories"><a href="/categories/" title="Categories">Categories</a></li>
+      <li class="site-navi-item-tags"><a href="/tags/" title="Tags">Tags</a></li>
+      <li class="site-navi-item-archives"><a href="/archives/" title="Archives">Archives</a></li>
+    </ul>
+  </nav>
+</header>
+<hr class="site-header-bottom">
+
+  <div class="main" role="main">
+    <article class="article">
+      
+      
+      <h1 class="article-title">Language Indecision</h1>
+      
+      <hr class="article-title-bottom">
+      <ul class="article-meta">
+        <li class="article-meta-date"><time>January 14, 2014</time></li>
+        <li class="article-meta-tags">
+          <a href="/tags/tractionedge/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#tag"></use></svg>
+            tractionedge
+          </a>&nbsp;
+        </li>
+      </ul>
+      
+      <p>I feel like moving back to Love2d and Lua. Nothing wrong with Python as such
+and I still prefer that over Lua but the pysdl2 has some issues. Let&rsquo;s do a procon.</p>
+<p><strong>Python/PySDL</strong></p>
+<p>Cons;</p>
+<ul>
+<li>It&rsquo;s relatively low level. Even to do something as simple as scaling or rotating
+forces you to dive down into SDL itself.</li>
+<li>No community. The pygame community doesn&rsquo;t count.</li>
+<li>SDL docs are terrible. Really.</li>
+<li>Nowhere near as feature rich as Love2d.</li>
+<li>Harder to package and distribute games</li>
+</ul>
+<p>Pros;</p>
+<ul>
+<li>Python is preferred as it benefits my career</li>
+<li>SDL is big, popular and not going away any time soon</li>
+<li>More cross platform targets (not that I care much about this)</li>
+<li>Easier to switch to 3d engine e.g. Panda3d</li>
+</ul>
+<p><strong>Love2d/Lua</strong></p>
+<p>Cons;</p>
+<ul>
+<li>Lua is lower level than Python. Most structure as missing and need to be
+implemented yourself or via a library e.g. Classes etc.</li>
+<li>It&rsquo;s not python and doesn&rsquo;t benefit my career</li>
+<li>There&rsquo;s something less verbose about it compared to Python.</li>
+<li>Difficult to swap engine out for a 3d one.</li>
+</ul>
+<p>Pros;</p>
+<ul>
+<li>Love2d is feature rich and fast.</li>
+<li>Loads of libraries for every kind of feature you&rsquo;d want in a game.</li>
+<li>Vibrant community</li>
+<li>Active development.</li>
+</ul>
+<p>From that list it looks like a no brainer but for 2 things. As an Infrastructure
+Enterprise Architect for a firm entering the devops era bigtime, python
+contributed directly to my career. Lua only contributes as programming
+practise, however, they are very similar and if needed to, I could switch
+back to Python with ease.</p>
+<p>There&rsquo;s something else about Lua that I don&rsquo;t like. The syntax of control
+structures, the need to drill into libraries when reading others code to
+make sure I understand how this guy&rsquo;s written his class implementation
+this time, the available documentation is a bit thin on the ground and I don&rsquo;t
+like the way the current manuals are written.</p>
+<p>Oh bugger it. Lua/Love2d it is. :)</p>
+
+    </article>
+
+    
+<ul class="article-share">
+  <li>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </li>
+  <li>
+    <div class="fb-share-button" data-href="https://www.scorch.org/archives/indecision/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  </li>
+  <li>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <g:plus action="share"></g:plus>
+  </li>
+  <li>
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  </li>
+  <li>
+    <a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+    <script>!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+  </li>
+</ul>
+
+    <ul class="pager article-pager">
+      <li class="pager-newer">
+          <a href="/archives/onfire/" data-toggle="tooltip" data-placement="top" title="On Fire">&lt; Newer</a>
+      </li>
+      <li class="pager-older">
+        <a href="/archives/terl_idea/" data-toggle="tooltip" data-placement="top" title="TeRL Idea">Older &gt;</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="site-footer">
+  <div class="copyright">&copy; Copyright 2017 Foo Bar</div>
+  <ul class="site-footer-items">
+  </ul>
+  <div class="powerdby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>
+  </div>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/custom.js"></script>
+
+
+</body>
+</html>

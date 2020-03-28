@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debian,opensource on The Skreegs</title>
+    <link>https://www.scorch.org/tags/debianopensource/</link>
+    <description>Recent content in debian,opensource on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Thu, 09 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/tags/debianopensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Love2d Policy</title>
+      <link>https://www.scorch.org/archives/love2dpolicy/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/love2dpolicy/</guid>
+      <description>That&amp;rsquo;s one todo off the list. Tonight I knocked up a proposed standard for packaging love2d games in Debian. This is the first technical, contributary, positive, evening activity I&amp;rsquo;ve been able to perform for a few months. That&amp;rsquo;ll be the drugs then. :)</description>
+    </item>
+    
+  </channel>
+</rss>

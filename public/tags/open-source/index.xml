@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on The Skreegs</title>
+    <link>https://www.scorch.org/tags/open-source/</link>
+    <description>Recent content in Open Source on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Mon, 30 Jul 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GNOME 3. Why Red Hat?</title>
+      <link>https://www.scorch.org/archives/gnome-3-why-red-hat/</link>
+      <pubDate>Mon, 30 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/gnome-3-why-red-hat/</guid>
+      <description>Lots has been written on GNOME3 already so I&amp;rsquo;ll make this quick (probably not). Let&amp;rsquo;s start with some facts.
+  GNOME2 was the primary desktop of Linux and the majority of Distributions. It is after all considered GNU software. GNOME is driven by Red Hat as they pay the wages of the main developers. Red Hat sells server software.  There&amp;rsquo;s a conundrum or two there. Consumer devices are rushing towards tablets and the main players, Apple, Microsoft, Google and to a lesser extent Ubuntu and a bunch of Android resellers, are following them as expected.</description>
+    </item>
+    
+    <item>
+      <title>Exit The Cloud - One Month On</title>
+      <link>https://www.scorch.org/archives/exit-the-cloud-one-month-on/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exit-the-cloud-one-month-on/</guid>
+      <description>So where are a month after my tirade against the oppression of freedom and liberty?
+Macbook Pro has been sold. They hold their value quite well and the money from it (a 4 year old machine) paid for the build of my new Debian desktop plus some left over. That, plus the cash from my HTC Desire leaves me some $500 in profit from this venture.
+Debian and the WAF. Photo management is lacking in linux.</description>
+    </item>
+    
+    <item>
+      <title>Exited The Cloud #7</title>
+      <link>https://www.scorch.org/archives/exited-the-cloud-7/</link>
+      <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exited-the-cloud-7/</guid>
+      <description>I&amp;rsquo;m about 90% towards where I wanted to be which is pretty good. Let&amp;rsquo;s see the score card.
+Cloud
+ GMail  Replaced by Fastmail.fm. This is still cloud side but self hosting email is a nasty business. My self hosting platform is still immature. I do have a self hosted roundcube though for accessing it from anywhere (work).
+ Google Reader  Replaced by self hosted Tiny Tiny RSS. Works really well.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #6</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-6/</link>
+      <pubDate>Sat, 05 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-6/</guid>
+      <description>In order to dump the Mac I need to replace it with something that meets the equivalent Wife Acceptance Factor. I&amp;rsquo;ve managed to lower the WAF a bit by explaining why I&amp;rsquo;m doing this. She appears to agree, or at the very least, allowed me to my madness.
+I&amp;rsquo;ve knocked up her a user on Debian. Made it nice and purple and put her usual apps in a dock similar to the Mac.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #3</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-3/</link>
+      <pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-3/</guid>
+      <description>So actually ignoring the cloud for the moment and returning to Kitten Ranch. The primary offender onsite is our MacBook Pro. This, being the main computer, was purchased and put in operation because &amp;ldquo;it just works&amp;rdquo;. After years of faffing around with Linux I wanted something stable and good. Good it has been. It&amp;rsquo;s fast, stable, Hazel mostly likes it and it does it&amp;rsquo;s job well. How far can we extract ourselves from it though?</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #1</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-1/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-1/</guid>
+      <description>So the Exit The Cloud/Be A Bolshy Arse strategy is underway.
+Let&amp;rsquo;s see how we&amp;rsquo;re doing so far.
+Apple
+My home PC is a Macbook Pro. I need to install and use Linux on it instead.
+ Debian Squeeze is (probably) released next week. I&amp;rsquo;ll assess that then.  Social Networking
+I have an identi.ca and twitter account. Noone uses Identi.ca and I’ve only started using Twitter since the floods. I can easily cancel both accounts.</description>
+    </item>
+    
+    <item>
+      <title>The Importance Of Being Open</title>
+      <link>https://www.scorch.org/archives/the-importance-of-being-open/</link>
+      <pubDate>Sat, 29 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/the-importance-of-being-open/</guid>
+      <description>Last week at LCA2011, Mark Pesce delivered a compelling keynote speech on privacy. His premise was this;
+We are enticed into giving up information about ourselves to closed systems. Facebook being the worst offender. The kind of data we give up forms a social graph. This graph can be used through the phenomenon of mimesis to manipulate us.
+Let me explain that a bit more incase you&amp;rsquo;ve failed to read Mark&amp;rsquo;s entire post.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moolah, Tech on The Skreegs</title>
+    <link>https://www.scorch.org/tags/moolah-tech/</link>
+    <description>Recent content in moolah, Tech on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Wed, 10 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/tags/moolah-tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&gt;moolah 0.6.3 kicked out the door</title>
+      <link>https://www.scorch.org/archives/moolah-0-6-3-kicked-out-the-door/</link>
+      <pubDate>Wed, 10 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-0-6-3-kicked-out-the-door/</guid>
+      <description>&amp;gt;It&amp;rsquo;s quite alarming that the more I hack on moolah the more bugs I find and probably the more I introduce. I&amp;rsquo;m just not paying attention and applying the correct gumption in learning to code tightly and more professionally. My coding time is so limited that it always boils down to be a case of &amp;lsquo;get it in, ooh it works, let&amp;rsquo;s not bother tidying it up, right what&amp;rsquo;s next?&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>&gt;More maintenance</title>
+      <link>https://www.scorch.org/archives/more-maintenance/</link>
+      <pubDate>Fri, 15 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/more-maintenance/</guid>
+      <description>&amp;gt;Getting quite large chunks of dev time on moolah recently but it all seems to be going on maintenance of the existing code. I&amp;rsquo;m still not what you would call an experienced Cocoa coder but even already I look back at previous code and think wtf! I&amp;rsquo;m almost embarrassed to be in the same room as myself.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah v0.6 - Thoughts on releases</title>
+      <link>https://www.scorch.org/archives/moolah-v0-6-thoughts-on-releases/</link>
+      <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-v0-6-thoughts-on-releases/</guid>
+      <description>&amp;gt;A few weeks ago I knocked out the first release of moolah. This, being 0.5 and pretty rough, was done under the &amp;ldquo;release early, release often&amp;rdquo; advice that google and many other Open Source developers preach. Does this really hold for a Mac app though? In general, Mac users aren&amp;rsquo;t used to unfinished, unpolished, buggy apps. They&amp;rsquo;re a bit &amp;ldquo;ordinary&amp;rdquo; (I suppose you could almost say snobby) in that they like they&amp;rsquo;re apps to be v1.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolahDev</title>
+      <link>https://www.scorch.org/archives/moolahdev/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolahdev/</guid>
+      <description>&amp;gt;One thing I&amp;rsquo;ve noticed when reading a lot of dev blogs is that people get burnt out and take a break. I&amp;rsquo;ve just hit the same thing and now realise why. I was on a coding splurge, believing I was close to getting moolah to a point where I could run it &amp;ldquo;in production&amp;rdquo; with my own accounts. Some odd things started happening and I realised a whole chunk of calculating code is all wrong and does exactly what a frog does when trying to get to the other side a river with a jumping strategy that involves each new jump being exactly half the distance of the last one.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah for Mac</title>
+      <link>https://www.scorch.org/archives/moolah-for-mac/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-for-mac/</guid>
+      <description>&amp;gt;As I said below I&amp;rsquo;m now a budding Mac developer. To learn any programming language I always need a personal project that fills a gap that can&amp;rsquo;t be filled from anywhere else. In this case its a decent personal finance program. Out recent run in with the bank manager has left us a bit strapped and I always new cash flow was a bit of a problem since we moved here.</description>
+    </item>
+    
+  </channel>
+</rss>

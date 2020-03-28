@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raspberrypi on The Skreegs</title>
+    <link>https://www.scorch.org/tags/raspberrypi/</link>
+    <description>Recent content in raspberrypi on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Wed, 30 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VPS gone</title>
+      <link>https://www.scorch.org/archives/vps-gone/</link>
+      <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/vps-gone/</guid>
+      <description>I&amp;rsquo;ve now knocked up my other Raspberrypi Model B as a web server to replace my slowing VPS. It&amp;rsquo;s performing way better than I expected. I&amp;rsquo;ve set it up with Lighttpd, Postgresql and enabled php-apc to cache php. Php-apc is giving a reasonable speedup of around 30%. The Pi is serving tt-rss external over https, using a server cert from cacert.org. It&amp;rsquo;s also running dokuwiki which basically gets no action.</description>
+    </item>
+    
+    <item>
+      <title>Changes</title>
+      <link>https://www.scorch.org/archives/changes/</link>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/changes/</guid>
+      <description>Blog In an effort to increase my geekdom I&amp;rsquo;ve moved my blog over to Pelican and AWS S3. I don&amp;rsquo;t have anything against cloud hosting for information that is deemed publically available and I need to learn AWS for work. My VIP is also slowing down the past few months so it&amp;rsquo;s time for it to go.
+Hosting At home I have a PC acting as a server. It&amp;rsquo;s a Sempron with 4GB of ram.</description>
+    </item>
+    
+    <item>
+      <title>MongCade Update</title>
+      <link>https://www.scorch.org/archives/mongcade-update/</link>
+      <pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/mongcade-update/</guid>
+      <description>Roughly on schedule the final physical build is complete. It&amp;rsquo;s turned out very well with only the usual audio issues from advmame on the Pi. Here&amp;rsquo;s the parts list.
+* Raspberry Pi $40
+* Ultimarc miniPac keyboard encoder ($60 delivered from USA)
+* Powered USB hub from BigW ($15)
+* 2x Sticks $34
+* 8x buttons $20
+* 2x 1w Champ amplifier kits from Jaycar $15
+* 2x 8w speakers from Jaycar $24</description>
+    </item>
+    
+    <item>
+      <title>...but not got telly</title>
+      <link>https://www.scorch.org/archives/but-not-got-telly/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/but-not-got-telly/</guid>
+      <description>I&amp;rsquo;d collected a couple of portable telly&amp;rsquo;s to use in my mame cab. The picture quality with Black Tiger running is outstanding. Just like a mini arcade machine. However, some inquiries how I might utilise the power inside the telly has warned me off of using a CRT. Telly&amp;rsquo;s are inheritantly dangerous beasts and I&amp;rsquo;d underestimated just how dodgy they can be. Since I&amp;rsquo;m not a CRT repair man and I&amp;rsquo;m probably going to be inside this box quite a lot (and I have kids who quite like their dada) I&amp;rsquo;m going to compromise and stick to an LCD.</description>
+    </item>
+    
+    <item>
+      <title>Got Sticks!</title>
+      <link>https://www.scorch.org/archives/got-sticks/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/got-sticks/</guid>
+      <description>Got my sticks today. I went for the reputable Sanwa variety. They feel of hardcore arcade greatness. A nice selection buttons too. Can&amp;rsquo;t do anything with them though till I get my Ultimarc mini-pac which was just ordered from the US.
+On the software side I have advancemame running reasonably well with the Pi clocked up to 900Mhz. It plays Greenberet, Black Tiger etc at full speed which makes me well happy.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Mame Bartop</title>
+      <link>https://www.scorch.org/archives/raspberry-pi-mame-bartop/</link>
+      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/raspberry-pi-mame-bartop/</guid>
+      <description>I always wanted to build a MAME cabinet but the plan was to wait till the kids were bigger and I had more time on my hands. Mame Cabs are generally big, full sized things and have a full PC in them. Big, clunky and expensive to build and run.
+Enter the RaspberryPi!
+I&amp;rsquo;m now intending to build a bartop mame cabinet. Just big enough to fit two people playing side by side so probably no bigger than a 17&amp;rdquo; screen.</description>
+    </item>
+    
+  </channel>
+</rss>

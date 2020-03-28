@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Software, Open Source, Parabola GNULinux on The Skreegs</title>
+    <link>https://www.scorch.org/tags/free-software-open-source-parabola-gnulinux/</link>
+    <description>Recent content in Free Software, Open Source, Parabola GNULinux on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Fri, 28 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/tags/free-software-open-source-parabola-gnulinux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Libre Status Update</title>
+      <link>https://www.scorch.org/archives/libre-status-update/</link>
+      <pubDate>Fri, 28 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/libre-status-update/</guid>
+      <description>While I&amp;rsquo;m a Free Software Activist and want to get more involved I certainly don&amp;rsquo;t practise 100% what I preach. I have the following devices in my home.
+ 1 Windows Netbook - It&amp;rsquo;s Hazel&amp;rsquo;s and will be replaced when it dies 1 Debian Wheezy Desktop - It has and AMD gfx card and runs binary firmware. It also contains various binary games. I think the only binary applicaiton on it is flash.</description>
+    </item>
+    
+  </channel>
+</rss>

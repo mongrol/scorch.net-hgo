@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on The Skreegs</title>
+    <link>https://www.scorch.org/tags/ai/</link>
+    <description>Recent content in AI on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Mon, 27 Aug 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appraise? Nah</title>
+      <link>https://www.scorch.org/archives/appraise-nah/</link>
+      <pubDate>Mon, 27 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/appraise-nah/</guid>
+      <description>I had the appraise skill in and about to start using it when I realised I didn&amp;rsquo;t need it. What is an appraise skill anyway? It&amp;rsquo;s based on intelligence and lets you identify creatures and objects but you can&amp;rsquo;t raise it with skill points. This means UI work to avoid those untrainable skills in the list. I then reassessed why I had this skill? To test if creatures can identify other creatures and objects?</description>
+    </item>
+    
+    <item>
+      <title>AI stable</title>
+      <link>https://www.scorch.org/archives/ai-stable/</link>
+      <pubDate>Fri, 24 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/ai-stable/</guid>
+      <description>Fleeing monsters are now in, they do tend to do a bit of pillar dancing in and out of FOV but I&amp;rsquo;ll fix that later. Next up though I want to get some individuality in and we can do that with the flee desire. I want monsters to have different flee characteristics.
+Mindless creatures, spiders, slithers to some degree should only flee at the last resort. Larger ones should exhibit more intelligence and there lies the balancing act.</description>
+    </item>
+    
+  </channel>
+</rss>

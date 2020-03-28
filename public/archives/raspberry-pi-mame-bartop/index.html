@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Raspberry Pi Mame Bartop - The Skreegs</title>
+  <meta property="og:title" content="Raspberry Pi Mame Bartop - The Skreegs" />
+  <meta name="twitter:title" content="Raspberry Pi Mame Bartop - The Skreegs" />
+  <meta name="description" content="I always wanted to build a MAME cabinet but the plan was to wait till the kids were bigger and I had more time on my hands. Mame Cabs are generally big, full sized things and have a full PC in them. Big, clunky and expensive to build and run.
+Enter the RaspberryPi!
+I&rsquo;m now intending to build a bartop mame cabinet. Just big enough to fit two people playing side by side so probably no bigger than a 17&rdquo; screen.">
+  <meta property="og:description" content="I always wanted to build a MAME cabinet but the plan was to wait till the kids were bigger and I had more time on my hands. Mame Cabs are generally big, full sized things and have a full PC in them. Big, clunky and expensive to build and run.
+Enter the RaspberryPi!
+I&rsquo;m now intending to build a bartop mame cabinet. Just big enough to fit two people playing side by side so probably no bigger than a 17&rdquo; screen.">
+  <meta name="twitter:description" content="I always wanted to build a MAME cabinet but the plan was to wait till the kids were bigger and I had more time on my hands. Mame Cabs are generally big, full sized things and have a full PC in them. …">
+  <meta name="author" content="Foo Bar"/>
+  <meta property="og:site_name" content="The Skreegs" />
+  <meta property="og:url" content="/archives/raspberry-pi-mame-bartop/" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/css/syntax.css" media="all" />
+  <link rel="stylesheet" href="/css/custom.css" media="all" />
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="site-navi">
+    <h1 class="site-title"><a href="/">The Skreegs</a></h1>
+    <ul class="site-navi-items">
+      <li class="site-navi-item-categories"><a href="/categories/" title="Categories">Categories</a></li>
+      <li class="site-navi-item-tags"><a href="/tags/" title="Tags">Tags</a></li>
+      <li class="site-navi-item-archives"><a href="/archives/" title="Archives">Archives</a></li>
+    </ul>
+  </nav>
+</header>
+<hr class="site-header-bottom">
+
+  <div class="main" role="main">
+    <article class="article">
+      
+      
+      <h1 class="article-title">Raspberry Pi Mame Bartop</h1>
+      
+      <hr class="article-title-bottom">
+      <ul class="article-meta">
+        <li class="article-meta-date"><time>August 7, 2012</time></li>
+        <li class="article-meta-categories">
+          <a href="/categories/the-skreegs/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#folder"></use></svg>
+            The Skreegs
+          </a>&nbsp;
+        </li>
+        <li class="article-meta-tags">
+          <a href="/tags/raspberrypi/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#tag"></use></svg>
+            raspberrypi
+          </a>&nbsp;
+        </li>
+      </ul>
+      
+      <p>I always wanted to build a MAME cabinet but the plan was to wait till
+the kids were bigger and I had more time on my hands. Mame Cabs are
+generally big, full sized things and have a full PC in them. Big, clunky
+and expensive to build and run.</p>
+<p>Enter the <a href="http://www.raspberrypi.org">RaspberryPi</a>!</p>
+<p>I&rsquo;m now intending to build a bartop mame cabinet. Just big enough to fit
+two people playing side by side so probably no bigger than a 17&rdquo; screen.
+It&rsquo;ll be easy to move it around, put it in a cupboard etc when not in
+use and hide it from children when I don&rsquo;t want to damaged. :)</p>
+<p>Here&rsquo;s the shopping list in AUD.</p>
+<p>1x raspberrypi $40<br>
+1x powered USB Hub $15<br>
+1x 8GB Class 10 SDCard $9<br>
+1x EDUP Wifi Dongle $10</p>
+<p>That&rsquo;s the compute bit. Now the arcade bit.</p>
+<p>1x Ultimarc mini-pac keyboard encoder $50<br>
+2x sticks $30<br>
+7x buttons (2 fire buttons per player, 1 + 2 player buttons and a coin
+insert.</p>
+<p>Then a screen from somewhere and some speakers as well. Haven&rsquo;t quite
+planned that bit yet.</p>
+<p>We then need a version of MAME to run on the Pi. There&rsquo;s a couple of
+efforts underway, Advancedmame and RetroArch which uses iMame4All. Since
+the Pi is a bit juice starved I&rsquo;ll aim for one that can run without X
+and outputs directly to the framebuffer. OpenglES accel would be nice
+too if possible.</p>
+<p>I&rsquo;ve currently got the pi hooked up with Galaxians running on Retroarch.
+I can&rsquo;t see to get the keyboard working properly though. Early days.</p>
+
+    </article>
+
+    
+<ul class="article-share">
+  <li>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </li>
+  <li>
+    <div class="fb-share-button" data-href="https://www.scorch.org/archives/raspberry-pi-mame-bartop/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  </li>
+  <li>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <g:plus action="share"></g:plus>
+  </li>
+  <li>
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  </li>
+  <li>
+    <a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+    <script>!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+  </li>
+</ul>
+
+    <ul class="pager article-pager">
+      <li class="pager-newer">
+          <a href="/archives/random-things-in-odd-places-1/" data-toggle="tooltip" data-placement="top" title="Random Things In Odd Places #1">&lt; Newer</a>
+      </li>
+      <li class="pager-older">
+        <a href="/archives/gnome-3-why-red-hat/" data-toggle="tooltip" data-placement="top" title="GNOME 3. Why Red Hat?">Older &gt;</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="site-footer">
+  <div class="copyright">&copy; Copyright 2017 Foo Bar</div>
+  <ul class="site-footer-items">
+  </ul>
+  <div class="powerdby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>
+  </div>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/custom.js"></script>
+
+
+</body>
+</html>

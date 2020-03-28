@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Traction Edge: Stable AI - The Skreegs</title>
+  <meta property="og:title" content="Traction Edge: Stable AI - The Skreegs" />
+  <meta name="twitter:title" content="Traction Edge: Stable AI - The Skreegs" />
+  <meta name="description" content="My second iteration of TE&rsquo;s AI has finally reached some kind of stability. It&rsquo;s the first draft of a fairly basic state machine with a few bits of bandaid over my rushed code.
+The FSM consists of Patrol state, Attack State and Run State. Each state, during update will run an awareness update (process fov) then make some decisions based on what it can see and also what the creatures present condition is.">
+  <meta property="og:description" content="My second iteration of TE&rsquo;s AI has finally reached some kind of stability. It&rsquo;s the first draft of a fairly basic state machine with a few bits of bandaid over my rushed code.
+The FSM consists of Patrol state, Attack State and Run State. Each state, during update will run an awareness update (process fov) then make some decisions based on what it can see and also what the creatures present condition is.">
+  <meta name="twitter:description" content="My second iteration of TE&rsquo;s AI has finally reached some kind of stability. It&rsquo;s the first draft of a fairly basic state machine with a few bits of bandaid over my rushed code.
+The FSM …">
+  <meta name="author" content="Foo Bar"/>
+  <meta property="og:site_name" content="The Skreegs" />
+  <meta property="og:url" content="/archives/traction-edge-stable-ai/" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/css/syntax.css" media="all" />
+  <link rel="stylesheet" href="/css/custom.css" media="all" />
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="site-navi">
+    <h1 class="site-title"><a href="/">The Skreegs</a></h1>
+    <ul class="site-navi-items">
+      <li class="site-navi-item-categories"><a href="/categories/" title="Categories">Categories</a></li>
+      <li class="site-navi-item-tags"><a href="/tags/" title="Tags">Tags</a></li>
+      <li class="site-navi-item-archives"><a href="/archives/" title="Archives">Archives</a></li>
+    </ul>
+  </nav>
+</header>
+<hr class="site-header-bottom">
+
+  <div class="main" role="main">
+    <article class="article">
+      
+      
+      <h1 class="article-title">Traction Edge: Stable AI</h1>
+      
+      <hr class="article-title-bottom">
+      <ul class="article-meta">
+        <li class="article-meta-date"><time>March 1, 2011</time></li>
+        <li class="article-meta-categories">
+          <a href="/categories/traction-edge/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#folder"></use></svg>
+            Traction Edge
+          </a>&nbsp;
+        </li>
+        <li class="article-meta-tags">
+          <a href="/tags/open-source-traction-edge/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#tag"></use></svg>
+            Open Source, Traction Edge
+          </a>&nbsp;
+        </li>
+      </ul>
+      
+      <p>My second iteration of TE&rsquo;s AI has finally reached some kind of
+stability. It&rsquo;s the first draft of a fairly basic state machine with a
+few bits of bandaid over my rushed code.</p>
+<p>The FSM consists of Patrol state, Attack State and Run State. Each
+state, during update will run an awareness update (process fov) then
+make some decisions based on what it can see and also what the creatures
+present condition is. Just now that consists of assessing whether it can
+attack and reach safety in the same round. If not, just run for safety.
+Once it reaches safety it returns to Patrol which consists of picking a
+random point that&rsquo;s reachable and moving towards it until it&rsquo;s awareness
+detects an enemy.</p>
+<p>The switch from Safety to Patrol does cause some flickering in and out
+of hiding places that&rsquo;s a bit unnatural but it&rsquo;s good enough just now.
+It also present a decent challenge. The next iteration will have a more
+complex behavior system and will soften the transitions.</p>
+<p>Since the AI just now presents a usable enough enemy I&rsquo;m going to jump
+back into the guts of the RPG system and get some progress to make this
+an actual game, rather than a tech demo.</p>
+
+    </article>
+
+    
+<ul class="article-share">
+  <li>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </li>
+  <li>
+    <div class="fb-share-button" data-href="https://www.scorch.org/archives/traction-edge-stable-ai/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  </li>
+  <li>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <g:plus action="share"></g:plus>
+  </li>
+  <li>
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  </li>
+  <li>
+    <a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+    <script>!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+  </li>
+</ul>
+
+    <ul class="pager article-pager">
+      <li class="pager-newer">
+          <a href="/archives/exiting-the-cloud-6/" data-toggle="tooltip" data-placement="top" title="Exiting The Cloud #6">&lt; Newer</a>
+      </li>
+      <li class="pager-older">
+        <a href="/archives/exiting-the-cloud-5/" data-toggle="tooltip" data-placement="top" title="Exiting The Cloud #5">Older &gt;</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="site-footer">
+  <div class="copyright">&copy; Copyright 2017 Foo Bar</div>
+  <ul class="site-footer-items">
+  </ul>
+  <div class="powerdby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>
+  </div>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/custom.js"></script>
+
+
+</body>
+</html>

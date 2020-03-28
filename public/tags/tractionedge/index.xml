@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tractionedge on The Skreegs</title>
+    <link>https://www.scorch.org/tags/tractionedge/</link>
+    <description>Recent content in tractionedge on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Tue, 14 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/tags/tractionedge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Language Indecision</title>
+      <link>https://www.scorch.org/archives/indecision/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/indecision/</guid>
+      <description>I feel like moving back to Love2d and Lua. Nothing wrong with Python as such and I still prefer that over Lua but the pysdl2 has some issues. Let&amp;rsquo;s do a procon.
+Python/PySDL
+Cons;
+ It&amp;rsquo;s relatively low level. Even to do something as simple as scaling or rotating forces you to dive down into SDL itself. No community. The pygame community doesn&amp;rsquo;t count. SDL docs are terrible. Really. Nowhere near as feature rich as Love2d.</description>
+    </item>
+    
+  </channel>
+</rss>

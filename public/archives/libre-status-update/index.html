@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Libre Status Update - The Skreegs</title>
+  <meta property="og:title" content="Libre Status Update - The Skreegs" />
+  <meta name="twitter:title" content="Libre Status Update - The Skreegs" />
+  <meta name="description" content="While I&rsquo;m a Free Software Activist and want to get more involved I certainly don&rsquo;t practise 100% what I preach. I have the following devices in my home.
+ 1 Windows Netbook - It&rsquo;s Hazel&rsquo;s and will be replaced when it dies 1 Debian Wheezy Desktop - It has and AMD gfx card and runs binary firmware. It also contains various binary games. I think the only binary applicaiton on it is flash.">
+  <meta property="og:description" content="While I&rsquo;m a Free Software Activist and want to get more involved I certainly don&rsquo;t practise 100% what I preach. I have the following devices in my home.
+ 1 Windows Netbook - It&rsquo;s Hazel&rsquo;s and will be replaced when it dies 1 Debian Wheezy Desktop - It has and AMD gfx card and runs binary firmware. It also contains various binary games. I think the only binary applicaiton on it is flash.">
+  <meta name="twitter:description" content="While I&rsquo;m a Free Software Activist and want to get more involved I certainly don&rsquo;t practise 100% what I preach. I have the following devices in my home.
+ 1 Windows Netbook - It&rsquo;s …">
+  <meta name="author" content="Foo Bar"/>
+  <meta property="og:site_name" content="The Skreegs" />
+  <meta property="og:url" content="/archives/libre-status-update/" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/css/syntax.css" media="all" />
+  <link rel="stylesheet" href="/css/custom.css" media="all" />
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="site-navi">
+    <h1 class="site-title"><a href="/">The Skreegs</a></h1>
+    <ul class="site-navi-items">
+      <li class="site-navi-item-categories"><a href="/categories/" title="Categories">Categories</a></li>
+      <li class="site-navi-item-tags"><a href="/tags/" title="Tags">Tags</a></li>
+      <li class="site-navi-item-archives"><a href="/archives/" title="Archives">Archives</a></li>
+    </ul>
+  </nav>
+</header>
+<hr class="site-header-bottom">
+
+  <div class="main" role="main">
+    <article class="article">
+      
+      
+      <h1 class="article-title">Libre Status Update</h1>
+      
+      <hr class="article-title-bottom">
+      <ul class="article-meta">
+        <li class="article-meta-date"><time>December 28, 2012</time></li>
+        <li class="article-meta-categories">
+          <a href="/categories/the-skreegs/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#folder"></use></svg>
+            The Skreegs
+          </a>&nbsp;
+        </li>
+        <li class="article-meta-tags">
+          <a href="/tags/free-software-open-source-parabola-gnulinux/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#tag"></use></svg>
+            Free Software, Open Source, Parabola GNULinux
+          </a>&nbsp;
+        </li>
+      </ul>
+      
+      <p>While I&rsquo;m a Free Software Activist and want to get more involved I
+certainly don&rsquo;t practise 100% what I preach. I have the following
+devices in my home.</p>
+<ul>
+<li>1 Windows Netbook - It&rsquo;s Hazel&rsquo;s and will be replaced when it dies</li>
+<li>1 Debian Wheezy Desktop - It has and AMD gfx card and runs binary
+firmware. It also contains various binary games. I think the only
+binary applicaiton on it is flash.</li>
+<li>1 Lenovo x121 with Arch Linux. Also contains games and runs binary
+firmware for the Intel wifi card.</li>
+<li>1 Mythbuntu server - Not sure what binaries are on this. Likely not
+many.</li>
+<li>1 Mythbuntu Zbox id11 - Serves as a myth front end. Will be running
+nVidia binary blobs for VDPAU acceleration.</li>
+<li>Nokia N900 and Sony Xperia Mini - Typical smartphone firmwares.</li>
+</ul>
+<p>So we&rsquo;re not doing very well there. I&rsquo;ve started raising the bar by
+converting the laptop, which I do most gamedev on and play games, to
+<a href="http://www.parabolagnulinux.org">Parabola GNU/Linux</a>. This is a free distro based on Arch and is very
+easy to migrate to on any machines already running Arch. My first step
+was to find and install a Mini-PCIE Wifi card that doesn&rsquo;t need binary
+firmware. Ebay was very helpful here and I obtained an Atheros card for
+buttons. Once installed it&rsquo;s simply a case of following the Parabola
+migration guide, installing Parabola repos, doing a pacman -Syyu to
+update and then remove any binary packages that there doesn&rsquo;t exist a
+free equivalent for. I only lost a couple of packages I wasn&rsquo;t even
+using.</p>
+<p>I then needed to do some grub tweaking to enable my LUKS encrypted
+rootfs and I&rsquo;m up and running. No games to play but no closed software
+other than my UEFI bios.</p>
+
+    </article>
+
+    
+<ul class="article-share">
+  <li>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </li>
+  <li>
+    <div class="fb-share-button" data-href="https://www.scorch.org/archives/libre-status-update/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  </li>
+  <li>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <g:plus action="share"></g:plus>
+  </li>
+  <li>
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  </li>
+  <li>
+    <a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+    <script>!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+  </li>
+</ul>
+
+    <ul class="pager article-pager">
+      <li class="pager-newer">
+          <a href="/archives/mongcade-update/" data-toggle="tooltip" data-placement="top" title="MongCade Update">&lt; Newer</a>
+      </li>
+      <li class="pager-older">
+        <a href="/archives/traction-edge-development-ceased/" data-toggle="tooltip" data-placement="top" title="Traction Edge Development Ceased">Older &gt;</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="site-footer">
+  <div class="copyright">&copy; Copyright 2017 Foo Bar</div>
+  <ul class="site-footer-items">
+  </ul>
+  <div class="powerdby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>
+  </div>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/custom.js"></script>
+
+
+</body>
+</html>

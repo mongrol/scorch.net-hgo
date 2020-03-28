@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>TE Simplification Project - The Skreegs</title>
+  <meta property="og:title" content="TE Simplification Project - The Skreegs" />
+  <meta name="twitter:title" content="TE Simplification Project - The Skreegs" />
+  <meta name="description" content="I&rsquo;ve done no dev in the last 4 weeks for a couple of main reasons. 1) I&rsquo;ve been hammered by anxiety and 2) I realise that with my current game design I won&rsquo;t be finished for another 3 years at my current rate. So it&rsquo;s time for the Traction Edge Simplification Project.
+TE is my first game and first C&#43;&#43; program and it shows in terms of code design. Normally new game programmers stick to simple games and get a few out before tackling something bigger.">
+  <meta property="og:description" content="I&rsquo;ve done no dev in the last 4 weeks for a couple of main reasons. 1) I&rsquo;ve been hammered by anxiety and 2) I realise that with my current game design I won&rsquo;t be finished for another 3 years at my current rate. So it&rsquo;s time for the Traction Edge Simplification Project.
+TE is my first game and first C&#43;&#43; program and it shows in terms of code design. Normally new game programmers stick to simple games and get a few out before tackling something bigger.">
+  <meta name="twitter:description" content="I&rsquo;ve done no dev in the last 4 weeks for a couple of main reasons. 1) I&rsquo;ve been hammered by anxiety and 2) I realise that with my current game design I won&rsquo;t be finished for another …">
+  <meta name="author" content="Foo Bar"/>
+  <meta property="og:site_name" content="The Skreegs" />
+  <meta property="og:url" content="/archives/te-simplification-project/" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/css/syntax.css" media="all" />
+  <link rel="stylesheet" href="/css/custom.css" media="all" />
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="site-navi">
+    <h1 class="site-title"><a href="/">The Skreegs</a></h1>
+    <ul class="site-navi-items">
+      <li class="site-navi-item-categories"><a href="/categories/" title="Categories">Categories</a></li>
+      <li class="site-navi-item-tags"><a href="/tags/" title="Tags">Tags</a></li>
+      <li class="site-navi-item-archives"><a href="/archives/" title="Archives">Archives</a></li>
+    </ul>
+  </nav>
+</header>
+<hr class="site-header-bottom">
+
+  <div class="main" role="main">
+    <article class="article">
+      
+      
+      <h1 class="article-title">TE Simplification Project</h1>
+      
+      <hr class="article-title-bottom">
+      <ul class="article-meta">
+        <li class="article-meta-date"><time>May 20, 2012</time></li>
+        <li class="article-meta-categories">
+          <a href="/categories/traction-edge/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#folder"></use></svg>
+            Traction Edge
+          </a>&nbsp;
+        </li>
+      </ul>
+      
+      <p>I&rsquo;ve done no dev in the last 4 weeks for a couple of main reasons. 1)
+I&rsquo;ve been hammered by anxiety and 2) I realise that with my current game
+design I won&rsquo;t be finished for another 3 years at my current rate. So
+it&rsquo;s time for the Traction Edge Simplification Project.</p>
+<p>TE is my first game and first C++ program and it shows in terms of code
+design. Normally new game programmers stick to simple games and get a
+few out before tackling something bigger. I didn&rsquo;t do that and now 3
+years down the line I fear losing enthusiasm for it which I don&rsquo;t want
+to do. So design refresh time it is.</p>
+<ul>
+<li>Simple items</li>
+</ul>
+<p>I was going to stick to traditional roguelike inventory handling.
+Players can find and pick up items on the battlefield. They can carry
+many and can swap them, pass them to other players etc. I&rsquo;m now changing
+back to a very original plan and players will have 2 simple slots.
+Wielding and Belt. The equivalent of left and right hand I suppose.
+Players are equipped on the embark screen. Belt will hold things like a
+grenade or a medikit.</p>
+<p>This also has the advantage of make choices easier. A player can&rsquo;t carry
+a grenade AND a medikit. It also means you can only carry one grenade
+with you making the choice of when you use it much starker. I like this
+plan. It&rsquo;s nice.</p>
+<ul>
+<li>Item research</li>
+</ul>
+<p>New items will appear at chosen levels. Like every 2 level or so you&rsquo;ll
+get a new one. Perhaps I could do a research tree where you pick a
+branch to travel down and it becomes available at level completion
+(research happens while you&rsquo;re off in the field)</p>
+<p>The idea is to keep the next release progressing rather than getting
+bogged down in implementing a larger system that may take months.</p>
+
+    </article>
+
+    
+<ul class="article-share">
+  <li>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </li>
+  <li>
+    <div class="fb-share-button" data-href="https://www.scorch.org/archives/te-simplification-project/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  </li>
+  <li>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <g:plus action="share"></g:plus>
+  </li>
+  <li>
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  </li>
+  <li>
+    <a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+    <script>!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+  </li>
+</ul>
+
+    <ul class="pager article-pager">
+      <li class="pager-newer">
+          <a href="/archives/te-update/" data-toggle="tooltip" data-placement="top" title="TE update">&lt; Newer</a>
+      </li>
+      <li class="pager-older">
+        <a href="/archives/dev-distractions/" data-toggle="tooltip" data-placement="top" title="Dev Distractions">Older &gt;</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="site-footer">
+  <div class="copyright">&copy; Copyright 2017 Foo Bar</div>
+  <ul class="site-footer-items">
+  </ul>
+  <div class="powerdby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>
+  </div>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/custom.js"></script>
+
+
+</body>
+</html>

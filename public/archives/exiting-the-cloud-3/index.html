@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Exiting The Cloud #3 - The Skreegs</title>
+  <meta property="og:title" content="Exiting The Cloud #3 - The Skreegs" />
+  <meta name="twitter:title" content="Exiting The Cloud #3 - The Skreegs" />
+  <meta name="description" content="So actually ignoring the cloud for the moment and returning to Kitten Ranch. The primary offender onsite is our MacBook Pro. This, being the main computer, was purchased and put in operation because &ldquo;it just works&rdquo;. After years of faffing around with Linux I wanted something stable and good. Good it has been. It&rsquo;s fast, stable, Hazel mostly likes it and it does it&rsquo;s job well. How far can we extract ourselves from it though?">
+  <meta property="og:description" content="So actually ignoring the cloud for the moment and returning to Kitten Ranch. The primary offender onsite is our MacBook Pro. This, being the main computer, was purchased and put in operation because &ldquo;it just works&rdquo;. After years of faffing around with Linux I wanted something stable and good. Good it has been. It&rsquo;s fast, stable, Hazel mostly likes it and it does it&rsquo;s job well. How far can we extract ourselves from it though?">
+  <meta name="twitter:description" content="So actually ignoring the cloud for the moment and returning to Kitten Ranch. The primary offender onsite is our MacBook Pro. This, being the main computer, was purchased and put in operation because …">
+  <meta name="author" content="Foo Bar"/>
+  <meta property="og:site_name" content="The Skreegs" />
+  <meta property="og:url" content="/archives/exiting-the-cloud-3/" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="/css/style.css" media="all" />
+  <link rel="stylesheet" href="/css/syntax.css" media="all" />
+  <link rel="stylesheet" href="/css/custom.css" media="all" />
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="site-navi">
+    <h1 class="site-title"><a href="/">The Skreegs</a></h1>
+    <ul class="site-navi-items">
+      <li class="site-navi-item-categories"><a href="/categories/" title="Categories">Categories</a></li>
+      <li class="site-navi-item-tags"><a href="/tags/" title="Tags">Tags</a></li>
+      <li class="site-navi-item-archives"><a href="/archives/" title="Archives">Archives</a></li>
+    </ul>
+  </nav>
+</header>
+<hr class="site-header-bottom">
+
+  <div class="main" role="main">
+    <article class="article">
+      
+      
+      <h1 class="article-title">Exiting The Cloud #3</h1>
+      
+      <hr class="article-title-bottom">
+      <ul class="article-meta">
+        <li class="article-meta-date"><time>February 16, 2011</time></li>
+        <li class="article-meta-categories">
+          <a href="/categories/the-skreegs/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#folder"></use></svg>
+            The Skreegs
+          </a>&nbsp;
+        </li>
+        <li class="article-meta-tags">
+          <a href="/tags/open-source/">
+            <svg class="icon"><use xlink:href="/images/fa-solid.svg#tag"></use></svg>
+            Open Source
+          </a>&nbsp;
+        </li>
+      </ul>
+      
+<aside class="toc">
+  <nav id="TableOfContents"></nav>
+</aside>
+      <p>So actually ignoring the cloud for the moment and returning to Kitten
+Ranch. The primary offender onsite is our MacBook Pro. This, being the
+main computer, was purchased and put in operation because &ldquo;it just
+works&rdquo;. After years of faffing around with Linux I wanted something
+stable and good. Good it has been. It&rsquo;s fast, stable, Hazel mostly likes
+it and it does it&rsquo;s job well. How far can we extract ourselves from it
+though?</p>
+<p>Locally I have the following critical functions being serviced by it;</p>
+<ul>
+<li>Local email storage.</li>
+<li>1.2GB of photo&rsquo;s - currently held in iPhoto</li>
+<li>9GB of movies. Mostly home video in probably in .mov format</li>
+<li>TE and Moolah development done in XCode - TE is cross platform but
+Moolah is pure Cocoa</li>
+<li>Various artifacts from projects over the years.</li>
+<li>Finance managment in jGnash.</li>
+<li>Skype</li>
+<li>Hazel uses it to plunder eBay, use email, Skype etc</li>
+</ul>
+<p>So I&rsquo;m tackling this lot very slowly. Firstly I&rsquo;ve installed reFit and
+dual booting Debian 6.0 (squeeze). After a bit of slapping I&rsquo;ve got
+Gnome looking pretty good and I&rsquo;m quite impressed with the whole
+package. It&rsquo;s very fast, stable so far and a lot easier to install than
+I remember. It takes ages to boot though as I had to use LILO to get
+past some 64bit reFIT/mbr issue. What about the above list?</p>
+<ul>
+<li>Email was moved up to Fastmail and a copy imported into Thunderbird.
+Evolution just doesn&rsquo;t cut it. It&rsquo;s a UI disaster and Thunderbird is
+cross platform.</li>
+<li>XCode is replaced with Geany. This is a lovely lightweight IDE with
+basic but good features. Since TE is part developed in VIM on a
+ArchLinux netbook then this was easy. Moolah however is now an
+abandoned project. How can I develop for a proprietary platform?
+This also means TE is now a Linux only game project. SFML 1.6
+(latest stable), which TE uses for graphics and input is also in
+Squeeze. Bonus!</li>
+<li>jGnash is java but I had to dip into contrib and non-free to get the
+sun-java6-jre. I&rsquo;m really trying to stay out of those repositories
+as much as possible. Finance Management sorted.</li>
+<li>Movies - I&rsquo;d sort of moved away from iMovie anyway as it just wasn&rsquo;t
+efficient and importing and converting to a youtube format (more on
+that later) so I expect I can find a suitable commandline way to do
+this.</li>
+<li>Photos - These will need to stay on OSX until Hazel moves across.
+She&rsquo;s the last thing to migrate and this is a no rollback situation.</li>
+<li>Skype - Killer. This is essential to talking to folks back home and
+I&rsquo;m not aware of any usable alternative. There&rsquo;s no 64bit binary for
+Linux available so I expect a debacle trying to get this to work.</li>
+<li>Flash - Debian comes with gnash which in my mind shouldn&rsquo;t exist
+(like mono) and it&rsquo;s not very good. readingeggs.com does not work
+with it. I&rsquo;ll try resisting install Flash but it may have to happen
+not just for reading eggs but also to help meet the WAF.</li>
+</ul>
+<p>The hard part is the Hazel migration as she does get fed up with me
+changing things every few years. I do have the fact that she appears to
+think anything Apple is a bit pretentious. Which of course it is.</p>
+
+    </article>
+
+    
+<ul class="article-share">
+  <li>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </li>
+  <li>
+    <div class="fb-share-button" data-href="https://www.scorch.org/archives/exiting-the-cloud-3/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  </li>
+  <li>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <g:plus action="share"></g:plus>
+  </li>
+  <li>
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  </li>
+  <li>
+    <a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+    <script>!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+  </li>
+</ul>
+
+    <ul class="pager article-pager">
+      <li class="pager-newer">
+          <a href="/archives/exiting-the-cloud-4/" data-toggle="tooltip" data-placement="top" title="Exiting The Cloud #4">&lt; Newer</a>
+      </li>
+      <li class="pager-older">
+        <a href="/archives/exiting-the-cloud-1/" data-toggle="tooltip" data-placement="top" title="Exiting The Cloud #1">Older &gt;</a>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="site-footer">
+  <div class="copyright">&copy; Copyright 2017 Foo Bar</div>
+  <ul class="site-footer-items">
+  </ul>
+  <div class="powerdby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>
+  </div>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/custom.js"></script>
+
+
+</body>
+</html>

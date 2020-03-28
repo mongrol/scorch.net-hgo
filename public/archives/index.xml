@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on The Skreegs</title>
+    <link>https://www.scorch.org/archives/</link>
+    <description>Recent content in Archives on The Skreegs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.scorch.org/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Monster Between The Cracks</title>
+      <link>https://www.scorch.org/archives/monster-between-the-cracks/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/monster-between-the-cracks/</guid>
+      <description>The process of switching from one SRRI to another is quite simple. You cut down a bit on the one you&amp;rsquo;re taking for a few days then switch over to the other, ramping up over the next couple of weeks. This process can be quite unpleasant however, the very reason you&amp;rsquo;re doing it is because you&amp;rsquo;re having quite an unpleasant time anyway. So it should just be a case of riding it out till the your new favourite drug kicks in.</description>
+    </item>
+    
+    <item>
+      <title>On Fire</title>
+      <link>https://www.scorch.org/archives/onfire/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/onfire/</guid>
+      <description>I&amp;rsquo;ve been an anxiety sufferer for nearly 2 decades. The worst of which have been the last 3 months. Imagine every nerve in your body activated, ready to spring into action, heart speeded up, an increased sensitivity to everything happening in you body. Imagine being in this state from waking to bedtime, then all day the next day, the day after that. That&amp;rsquo;s how I currently live.
+My condition has taken different shapes over the years.</description>
+    </item>
+    
+    <item>
+      <title>Language Indecision</title>
+      <link>https://www.scorch.org/archives/indecision/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/indecision/</guid>
+      <description>I feel like moving back to Love2d and Lua. Nothing wrong with Python as such and I still prefer that over Lua but the pysdl2 has some issues. Let&amp;rsquo;s do a procon.
+Python/PySDL
+Cons;
+ It&amp;rsquo;s relatively low level. Even to do something as simple as scaling or rotating forces you to dive down into SDL itself. No community. The pygame community doesn&amp;rsquo;t count. SDL docs are terrible. Really. Nowhere near as feature rich as Love2d.</description>
+    </item>
+    
+    <item>
+      <title>TeRL Idea</title>
+      <link>https://www.scorch.org/archives/terl_idea/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/terl_idea/</guid>
+      <description>Just had a game idea. Let&amp;rsquo;s write and talk at the same time!
+I&amp;rsquo;ve been playing Shadowrun Returns. Love the graphics, love the simplified action points, love the cover system. Don&amp;rsquo;t like that the game is on rails so much. What if we had a vertically scrolling roguelike? The Traction Edge has occurred. It creeps up from the bottom of the screen and if it reaches our intrepid policeman it&amp;rsquo;s all over.</description>
+    </item>
+    
+    <item>
+      <title>Love2d Policy</title>
+      <link>https://www.scorch.org/archives/love2dpolicy/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/love2dpolicy/</guid>
+      <description>That&amp;rsquo;s one todo off the list. Tonight I knocked up a proposed standard for packaging love2d games in Debian. This is the first technical, contributary, positive, evening activity I&amp;rsquo;ve been able to perform for a few months. That&amp;rsquo;ll be the drugs then. :)</description>
+    </item>
+    
+    <item>
+      <title>Todos &amp; Emerging from the Fog</title>
+      <link>https://www.scorch.org/archives/todos/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/todos/</guid>
+      <description>I suffer from General Anxiety Disorder and the last few months have been a downhill spiral with the last few weeks being the worst I&amp;rsquo;ve ever experienced due to a switch of SRRI&amp;rsquo;s. In the evening&amp;rsquo;s I&amp;quot;ve been utterly unable to contribute to any project beyond the slightest triviality. This week however, the new drugs are kicking in and I&amp;rsquo;m feeling up. Time to get back on the horse and get stuff done.</description>
+    </item>
+    
+    <item>
+      <title>VPS gone</title>
+      <link>https://www.scorch.org/archives/vps-gone/</link>
+      <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/vps-gone/</guid>
+      <description>I&amp;rsquo;ve now knocked up my other Raspberrypi Model B as a web server to replace my slowing VPS. It&amp;rsquo;s performing way better than I expected. I&amp;rsquo;ve set it up with Lighttpd, Postgresql and enabled php-apc to cache php. Php-apc is giving a reasonable speedup of around 30%. The Pi is serving tt-rss external over https, using a server cert from cacert.org. It&amp;rsquo;s also running dokuwiki which basically gets no action.</description>
+    </item>
+    
+    <item>
+      <title>Changes</title>
+      <link>https://www.scorch.org/archives/changes/</link>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/changes/</guid>
+      <description>Blog In an effort to increase my geekdom I&amp;rsquo;ve moved my blog over to Pelican and AWS S3. I don&amp;rsquo;t have anything against cloud hosting for information that is deemed publically available and I need to learn AWS for work. My VIP is also slowing down the past few months so it&amp;rsquo;s time for it to go.
+Hosting At home I have a PC acting as a server. It&amp;rsquo;s a Sempron with 4GB of ram.</description>
+    </item>
+    
+    <item>
+      <title>Mame4all-pi</title>
+      <link>https://www.scorch.org/archives/mame4all-pi/</link>
+      <pubDate>Sat, 16 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/mame4all-pi/</guid>
+      <description>Mame4all is the ONLY way to play mame on the Pi. Combined with DISPMANX it gives a near 50% performance increase and perfect sound. AWESOME! Get it here.
+https://code.google.com/p/mame4all-pi/</description>
+    </item>
+    
+    <item>
+      <title>MongCade Update</title>
+      <link>https://www.scorch.org/archives/mongcade-update/</link>
+      <pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/mongcade-update/</guid>
+      <description>Roughly on schedule the final physical build is complete. It&amp;rsquo;s turned out very well with only the usual audio issues from advmame on the Pi. Here&amp;rsquo;s the parts list.
+* Raspberry Pi $40
+* Ultimarc miniPac keyboard encoder ($60 delivered from USA)
+* Powered USB hub from BigW ($15)
+* 2x Sticks $34
+* 8x buttons $20
+* 2x 1w Champ amplifier kits from Jaycar $15
+* 2x 8w speakers from Jaycar $24</description>
+    </item>
+    
+    <item>
+      <title>Libre Status Update</title>
+      <link>https://www.scorch.org/archives/libre-status-update/</link>
+      <pubDate>Fri, 28 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/libre-status-update/</guid>
+      <description>While I&amp;rsquo;m a Free Software Activist and want to get more involved I certainly don&amp;rsquo;t practise 100% what I preach. I have the following devices in my home.
+ 1 Windows Netbook - It&amp;rsquo;s Hazel&amp;rsquo;s and will be replaced when it dies 1 Debian Wheezy Desktop - It has and AMD gfx card and runs binary firmware. It also contains various binary games. I think the only binary applicaiton on it is flash.</description>
+    </item>
+    
+    <item>
+      <title>Traction Edge Development Ceased</title>
+      <link>https://www.scorch.org/archives/traction-edge-development-ceased/</link>
+      <pubDate>Fri, 28 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/traction-edge-development-ceased/</guid>
+      <description>Unfortunately TE development is now over and probably never to restart. Basically after 3 years of work I still have only a small game to show. My limited time doesn&amp;rsquo;t leave much space to make the game I envisage. C++ development is slow with a lot of my time fighting my existing code base and the stuff I&amp;rsquo;ve just rushed in. It&amp;rsquo;s become too painful.
+I&amp;rsquo;ve also realised that my vision isn&amp;rsquo;t fully formed.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s alive!</title>
+      <link>https://www.scorch.org/archives/its-alive/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/its-alive/</guid>
+      <description>Mamecab update.
+ Boot to Advmenu now worky Ultimarc minipac installed and working Player 1 stick and buttons in and working  </description>
+    </item>
+    
+    <item>
+      <title>Appraise? Nah</title>
+      <link>https://www.scorch.org/archives/appraise-nah/</link>
+      <pubDate>Mon, 27 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/appraise-nah/</guid>
+      <description>I had the appraise skill in and about to start using it when I realised I didn&amp;rsquo;t need it. What is an appraise skill anyway? It&amp;rsquo;s based on intelligence and lets you identify creatures and objects but you can&amp;rsquo;t raise it with skill points. This means UI work to avoid those untrainable skills in the list. I then reassessed why I had this skill? To test if creatures can identify other creatures and objects?</description>
+    </item>
+    
+    <item>
+      <title>AI stable</title>
+      <link>https://www.scorch.org/archives/ai-stable/</link>
+      <pubDate>Fri, 24 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/ai-stable/</guid>
+      <description>Fleeing monsters are now in, they do tend to do a bit of pillar dancing in and out of FOV but I&amp;rsquo;ll fix that later. Next up though I want to get some individuality in and we can do that with the flee desire. I want monsters to have different flee characteristics.
+Mindless creatures, spiders, slithers to some degree should only flee at the last resort. Larger ones should exhibit more intelligence and there lies the balancing act.</description>
+    </item>
+    
+    <item>
+      <title>TE AI Update</title>
+      <link>https://www.scorch.org/archives/te-ai-update/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-ai-update/</guid>
+      <description>My Dijkstra implementation is now in and providing some lovely pathfinding indeed. I&amp;rsquo;m now finishing up initial desires and getting monsters to flee appropriately. I&amp;rsquo;m sure my handling of the various DJ maps isn&amp;rsquo;t very efficient. After this is done I&amp;rsquo;ll move onto something else as it&amp;rsquo;s taken a few months to get it done (kids, work, the usual mental issues haven&amp;rsquo;t left much time).
+I&amp;rsquo;ll have this out for ARRP 2012 then we&amp;rsquo;ll move into the tech tree area.</description>
+    </item>
+    
+    <item>
+      <title>...but not got telly</title>
+      <link>https://www.scorch.org/archives/but-not-got-telly/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/but-not-got-telly/</guid>
+      <description>I&amp;rsquo;d collected a couple of portable telly&amp;rsquo;s to use in my mame cab. The picture quality with Black Tiger running is outstanding. Just like a mini arcade machine. However, some inquiries how I might utilise the power inside the telly has warned me off of using a CRT. Telly&amp;rsquo;s are inheritantly dangerous beasts and I&amp;rsquo;d underestimated just how dodgy they can be. Since I&amp;rsquo;m not a CRT repair man and I&amp;rsquo;m probably going to be inside this box quite a lot (and I have kids who quite like their dada) I&amp;rsquo;m going to compromise and stick to an LCD.</description>
+    </item>
+    
+    <item>
+      <title>Got Sticks!</title>
+      <link>https://www.scorch.org/archives/got-sticks/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/got-sticks/</guid>
+      <description>Got my sticks today. I went for the reputable Sanwa variety. They feel of hardcore arcade greatness. A nice selection buttons too. Can&amp;rsquo;t do anything with them though till I get my Ultimarc mini-pac which was just ordered from the US.
+On the software side I have advancemame running reasonably well with the Pi clocked up to 900Mhz. It plays Greenberet, Black Tiger etc at full speed which makes me well happy.</description>
+    </item>
+    
+    <item>
+      <title>Random Things In Odd Places #1</title>
+      <link>https://www.scorch.org/archives/random-things-in-odd-places-1/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/random-things-in-odd-places-1/</guid>
+      <description>A great thing about having kids is constantly finding random objects sitting in places they shouldn&amp;rsquo;t be and since we&amp;rsquo;re always busy doing more important things these objects will sometimes sit in their place for days or weeks on end before someone can be bothered moving them.
+I kept meaning to start a series of Random Thing in Odd Places. So here&amp;rsquo;s #1. It&amp;rsquo;s a harmonica, in it&amp;rsquo;s case sitting on the shelf above the toilet.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Mame Bartop</title>
+      <link>https://www.scorch.org/archives/raspberry-pi-mame-bartop/</link>
+      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/raspberry-pi-mame-bartop/</guid>
+      <description>I always wanted to build a MAME cabinet but the plan was to wait till the kids were bigger and I had more time on my hands. Mame Cabs are generally big, full sized things and have a full PC in them. Big, clunky and expensive to build and run.
+Enter the RaspberryPi!
+I&amp;rsquo;m now intending to build a bartop mame cabinet. Just big enough to fit two people playing side by side so probably no bigger than a 17&amp;rdquo; screen.</description>
+    </item>
+    
+    <item>
+      <title>GNOME 3. Why Red Hat?</title>
+      <link>https://www.scorch.org/archives/gnome-3-why-red-hat/</link>
+      <pubDate>Mon, 30 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/gnome-3-why-red-hat/</guid>
+      <description>Lots has been written on GNOME3 already so I&amp;rsquo;ll make this quick (probably not). Let&amp;rsquo;s start with some facts.
+  GNOME2 was the primary desktop of Linux and the majority of Distributions. It is after all considered GNU software. GNOME is driven by Red Hat as they pay the wages of the main developers. Red Hat sells server software.  There&amp;rsquo;s a conundrum or two there. Consumer devices are rushing towards tablets and the main players, Apple, Microsoft, Google and to a lesser extent Ubuntu and a bunch of Android resellers, are following them as expected.</description>
+    </item>
+    
+    <item>
+      <title>Straight And True</title>
+      <link>https://www.scorch.org/archives/straight-and-true/</link>
+      <pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/straight-and-true/</guid>
+      <description>I was fairly quick getting Dijkstra maps in for path finding but still found my monsters taking round about paths to get to targets. Exactly the same as my old code. It took an infuriatingly long time to fix as well. The problem was I was calculating every tile around the centre tile including the diagonals instead of just the orthagonal neighbours. The result was a steeper slope on the diagonals and gentler on orthos.</description>
+    </item>
+    
+    <item>
+      <title>Desire me Dijkstra</title>
+      <link>https://www.scorch.org/archives/desire-me-dijkstra/</link>
+      <pubDate>Tue, 10 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/desire-me-dijkstra/</guid>
+      <description>The AI refresh is going great. I have some fantasy is my head about ditching the state machine, which technically I have. The idea is to update awareness of every loop, then update desires, and goals for those desires, based on that awareness. The final result is a djmap that the monster just roles downhill on which is towards the strongest desire. On the next step, we update our awareness and take an action if required.</description>
+    </item>
+    
+    <item>
+      <title>Game Stuff</title>
+      <link>https://www.scorch.org/archives/game-stuff/</link>
+      <pubDate>Thu, 14 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/game-stuff/</guid>
+      <description>Firstly I just watched the talk by Icculus at Flourish 2012. Very good talk and a great overview of all the useful tools the open source community provides for game programmers. Picked up a few myself including Valgrind and I&amp;rsquo;m even more interested in Lua that I was before thought I don&amp;rsquo;t think I&amp;rsquo;m quite ready yet to incorporate scripting. Video is here. Tis very good.
+I&amp;rsquo;ve also started on TE&amp;rsquo;s AI refresh.</description>
+    </item>
+    
+    <item>
+      <title>XP progression in</title>
+      <link>https://www.scorch.org/archives/xp-progression-in/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/xp-progression-in/</guid>
+      <description>So now I&amp;rsquo;ve got XP progression in and had a good play testing session. The result.
+ It&amp;rsquo;s beatable until the Gimps on level 3 appear. Path finding sucks. Monsters still get stuck at map edges AI needs obvious real work XP gain grants too many skill points.  </description>
+    </item>
+    
+    <item>
+      <title>Real Ultimate Failure</title>
+      <link>https://www.scorch.org/archives/real-ultimate-failure/</link>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/real-ultimate-failure/</guid>
+      <description>Well that didn&amp;rsquo;t last long. 4 weeks after returning to Kung Fu I&amp;rsquo;ve quit it for good. While I&amp;rsquo;d been pleased with the initial sessions after a few weeks the training took it&amp;rsquo;s toll on my joints which gradually increased in discomfort and started getting quite sore. Couple that with the stage of training which involves lots of jump kicks it it became quite clear I couldn&amp;rsquo;t sustain it.
+So since then I&amp;rsquo;ve been cycling to work to keep my fitness up but now I&amp;rsquo;ve found even that difficult.</description>
+    </item>
+    
+    <item>
+      <title>TE update</title>
+      <link>https://www.scorch.org/archives/te-update/</link>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-update/</guid>
+      <description>XP gain is now in. There&amp;rsquo;s a rough curve that&amp;rsquo;ll need tuning as we go but now after a map your patrolmen will have attribute points to spend on level up.
+I hate UI programming. It&amp;rsquo;s just painful and timeconsuming. I first had a go at doing some window,view, object type framework ages ago which I abandoned due to inexperience. I now hard code it all into screens. My next game will have a proper framework, or most likely, use a 3rd party UI lib.</description>
+    </item>
+    
+    <item>
+      <title>TE Simplification Project</title>
+      <link>https://www.scorch.org/archives/te-simplification-project/</link>
+      <pubDate>Sun, 20 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-simplification-project/</guid>
+      <description>I&amp;rsquo;ve done no dev in the last 4 weeks for a couple of main reasons. 1) I&amp;rsquo;ve been hammered by anxiety and 2) I realise that with my current game design I won&amp;rsquo;t be finished for another 3 years at my current rate. So it&amp;rsquo;s time for the Traction Edge Simplification Project.
+TE is my first game and first C++ program and it shows in terms of code design. Normally new game programmers stick to simple games and get a few out before tackling something bigger.</description>
+    </item>
+    
+    <item>
+      <title>Dev Distractions</title>
+      <link>https://www.scorch.org/archives/dev-distractions/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/dev-distractions/</guid>
+      <description>The last two weeks have been pretty hard for me as an anxiety sufferer so practically no devving has been done at all. Anxiety makes you reach for escape and distraction and this came in the form of a nearly new Nokia N900. The ultimate geeks phone. :)
+Back on TE now I&amp;rsquo;m working on adding item handling functionality. I want to drop, pickup and possibly pass items around. This also makes me think of progression in terms of how we gain new items.</description>
+    </item>
+    
+    <item>
+      <title>UI Mistake Redux</title>
+      <link>https://www.scorch.org/archives/ui-mistake-redux/</link>
+      <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/ui-mistake-redux/</guid>
+      <description>My last post berated my event loop and UI structure. I had a good old look at it today and some reading and I&amp;rsquo;m not so sure I&amp;rsquo;ve got it wrong after all. MVC means the view reacts to events and sends commands to the controller. The controller then translates that into an order to change the model.
+In TE both my UI classes and my EngineState reacts to events so these are essentially performing the View role.</description>
+    </item>
+    
+    <item>
+      <title>Traction Edge Design Mistakes #1</title>
+      <link>https://www.scorch.org/archives/traction-edge-design-mistakes-1/</link>
+      <pubDate>Wed, 11 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/traction-edge-design-mistakes-1/</guid>
+      <description>Traction Edge is the one and only C++ program I&amp;rsquo;ve ever written. I didn&amp;rsquo;t start with Hello World. I just got in and started moving an @ around using SFML (then called EnemyX) and it just kept going from there. Since my dev time is quite limited and games take a lot of devtime, in order to get content in I follow this methodology.
+ Implement idea using quick and dirty code with about 1 bus trips worth of thought into doing it properly and cleanly.</description>
+    </item>
+    
+    <item>
+      <title>blah for teh logw1n.</title>
+      <link>https://www.scorch.org/archives/blah-for-teh-logw1n/</link>
+      <pubDate>Sun, 08 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/blah-for-teh-logw1n/</guid>
+      <description>I&amp;rsquo;ve now ripped through all the code and replaced any output with blah. This is an awesome little C++ logger library and has completely solved all my debug woes, std::cout spam and my poor effort at a logger. Who wants to write a perfect logger? Not me, I&amp;rsquo;d rather write game code.
+Next up, I think I&amp;rsquo;ll move the level population data out into xml files.</description>
+    </item>
+    
+    <item>
+      <title>Traction Edge v0.3 Released</title>
+      <link>https://www.scorch.org/archives/traction-edge-v0-3-released/</link>
+      <pubDate>Fri, 30 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/traction-edge-v0-3-released/</guid>
+      <description>Yay! That makes 3 releases in less than 3 years. Awesome! This is the first release that I consider a playable game in that it allows you to progress through several levels of increasing difficulty with the ability to boost your skills during map intervals. I&amp;rsquo;ve also setup a new home page domain www.tractionedge.org which still goes to the Sourceforge site but means I can move it here when I eventually get some wordpress theme skills.</description>
+    </item>
+    
+    <item>
+      <title>Level Level</title>
+      <link>https://www.scorch.org/archives/level-level/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/level-level/</guid>
+      <description>I&amp;rsquo;ve been meaning to do a post on my programming mistakes with Traction Edge since I started. I&amp;rsquo;ll do it soon but one item that will be in the list bit me on the bum yesterday. Because I&amp;rsquo;m such a genius, my Creature class has all it&amp;rsquo;s attributes as int&amp;rsquo;s instead of in a std::map. I&amp;rsquo;ve always had the thought this was a bad idea every time I added another attribute and it finally bit me when I tried to do the UI for level up.</description>
+    </item>
+    
+    <item>
+      <title>Level up!</title>
+      <link>https://www.scorch.org/archives/level-up/</link>
+      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/level-up/</guid>
+      <description>We&amp;rsquo;re getting close to the next release. We now have skill point upgrades between levels and modified melee damage to be dependent on strength hopefully encouraging players to build tank style squaddies.
+What&amp;rsquo;s left before the next release? Not a lot.
+ Level up with XP gain. Every level grants you a point to spend on attributes. Better tuning of the mobs delivered with each level. I just flung some crap code in the populate levels.</description>
+    </item>
+    
+    <item>
+      <title>Attack code sucks</title>
+      <link>https://www.scorch.org/archives/attack-code-sucks/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/attack-code-sucks/</guid>
+      <description>Now I&amp;rsquo;m back into the actual game proper and done with PCG for the time being, I&amp;rsquo;ve quickly realised that my old ranged attack code sucks quite badly. I also jammed melee attack code into it without fully realising how sucky it was. The result is some ugly components that are out of order and also are probably wrongly tightly coupled to the AI system as well.
+Ah, I had good 3 months since my last re-factoring exercise.</description>
+    </item>
+    
+    <item>
+      <title>Kung Fu Return</title>
+      <link>https://www.scorch.org/archives/kung-fu-return/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/kung-fu-return/</guid>
+      <description>I thought I&amp;rsquo;d write this down so I don&amp;rsquo;t forget when it happened. After a lapse of nearly 2 1/2 years which has seen me visit various specialists, had numerous scans and a double hip arthroscope, I returned to Kung Fu training last night. The session went well but I expected the worst today since I did have quite sore hip joints. Today though I only have normal muscle soreness from training and no joint pain whatsoever.</description>
+    </item>
+    
+    <item>
+      <title>PCG Screenshot</title>
+      <link>https://www.scorch.org/archives/pcg-screenshot/</link>
+      <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-screenshot/</guid>
+      <description>I&amp;rsquo;m really quite pleased with how its turned out. Not bad for a first attempt at all. It&amp;rsquo;s also flexible enough to be able to make it easy to create other map types like villages, towns, cities etc.
+Here&amp;rsquo;s a screenshot.
+{% img /static/images/tepcg.png 640 %}</description>
+    </item>
+    
+    <item>
+      <title>PCG Phase 1 Complete</title>
+      <link>https://www.scorch.org/archives/pcg-phase-1-complete/</link>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-phase-1-complete/</guid>
+      <description>Phew, that took some doing. For my first PCG map &amp;ldquo;farm&amp;rdquo; I&amp;rsquo;ve used Cellular Automation for tree generation. This took some tweaking to get right with some random variables liberally sprinkled to get the right amount of clumping and spacing. I didn&amp;rsquo;t want a cavern type thick forest and it was only a couple of integers away from wide open fields with only trees around the edges. Still, I&amp;rsquo;ve enough to get on with.</description>
+    </item>
+    
+    <item>
+      <title>Ok, more PCG</title>
+      <link>https://www.scorch.org/archives/ok-more-pcg/</link>
+      <pubDate>Mon, 30 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/ok-more-pcg/</guid>
+      <description>Just had a wee play through. I&amp;rsquo;m not very happy with the state of PCG as it is. If I left it as it is I&amp;rsquo;d have to live with it for probably 6 months or more and it&amp;rsquo;ll just piss me off. So, targets are.
+* Correct meandering roads and rivers.
+* Correct blocks of trees
+* Fill routines etc to deal with above.
+The fill thing has me interested.</description>
+    </item>
+    
+    <item>
+      <title>PCG draft 1 complete</title>
+      <link>https://www.scorch.org/archives/pcg-draft-1-complete/</link>
+      <pubDate>Fri, 27 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-draft-1-complete/</guid>
+      <description>PCG is up to a state now that I can move on a bit. Currently I have one scenario, the farm. 2 sizes of construction, random trees and a dirst road. The trees and road I&amp;rsquo;m not happy with but it&amp;rsquo;ll do just now.
+I now need to figure out how progression works. Static content needs to be removed just niw then slotted in somehow later. It&amp;rsquo;s working out how the game scales the difficulty.</description>
+    </item>
+    
+    <item>
+      <title>PCG Update</title>
+      <link>https://www.scorch.org/archives/pcg-update/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-update/</guid>
+      <description>Good progress today. A trip to Sydney resulted in much code being written on the plane and in the airport. I now have 5x5 and 10x10 building placement into a base map with the config for each scenario parsed from xml files. Next up is to tighten up the code as the rands spring up the occasional segfault. Then it&amp;rsquo;s a job of weighting the placement a bit more central so buildings aren&amp;rsquo;t so much jammed against the edges of the map.</description>
+    </item>
+    
+    <item>
+      <title>TE on Freegamer</title>
+      <link>https://www.scorch.org/archives/te-on-freegamer/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-on-freegamer/</guid>
+      <description>Traction Edge landed a news post on freegamer this week. Cool! Cept, now 25 people have downloaded my source in 2 days, more than my current 2 year total. Will I have guilt for not working on it? No! Because I am working on it!. muha!
+  </description>
+    </item>
+    
+    <item>
+      <title>PCG Progress</title>
+      <link>https://www.scorch.org/archives/pcg-progress/</link>
+      <pubDate>Thu, 05 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pcg-progress/</guid>
+      <description>I&amp;rsquo;ve successfully switched my PCG code from the convoluted BSP code to the much simpler map squares alah UFO(Xcom). The square size of 5x5 seems a nice fit too. I&amp;rsquo;ve also got masking in so buildings that don&amp;rsquo;t entirely fill the square simply overlay on top of the ground already there.
+I&amp;rsquo;ve decided buildings, instead of being procedurally generated will be drawn statically and stored in a tilemap (Tiled to the rescue again).</description>
+    </item>
+    
+    <item>
+      <title>TE and PCG</title>
+      <link>https://www.scorch.org/archives/te-and-pcg/</link>
+      <pubDate>Fri, 30 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-and-pcg/</guid>
+      <description>I&amp;rsquo;m now plugging away at procedural maps. Maps are created for &amp;ldquo;scenarios&amp;rdquo;, e.g. Farm, Village, City, Dungeon etc. With custom code for each without obvious reuse where possible. Buildings are then generated and placed into the map where there is space. Finding space is the tricky part. At first I attempted using a BSP to divide the space up. This proved too hard as to cater for different sized buildings I had to traverse an overlapping map of &amp;ldquo;nodes&amp;rsquo; that may or may not have buildings in there children.</description>
+    </item>
+    
+    <item>
+      <title>TE progress</title>
+      <link>https://www.scorch.org/archives/te-progress/</link>
+      <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/te-progress/</guid>
+      <description>ARRP 2011 is now two months gone and I&amp;rsquo;ve so far, in my usual slow fashion, implemented melee. I&amp;rsquo;m becoming more conscious of the usability of the interface as this is exacerbated by the success of indie games recently. User&amp;rsquo;s have higher expectations and Indie games these days have to strive to be as professional as larger company products. I thought I could get away with poor UI by sticking to the roguelike genre but now even RL&amp;rsquo;s are coming out with slick interfaces (Dredmor, Cardinal Quest).</description>
+    </item>
+    
+    <item>
+      <title>Traction Edge v0.2 Released</title>
+      <link>https://www.scorch.org/archives/traction-edge-v0-2-released/</link>
+      <pubDate>Wed, 21 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/traction-edge-v0-2-released/</guid>
+      <description>I&amp;rsquo;ve finally got another release successfully out he door last weekend. v0.2 was punted out for the ARRP 2011. Main changes were updated AI, reaction fire and stats affecting gameplay.
+Since I&amp;rsquo;m only distributing source, and since the source is always available and a release is only a sort of stable branch, I&amp;rsquo;m going to aim at more regular releases. Here&amp;rsquo;s the next features coming up.
+ Melee Opening Doors Civilians and more mobs.</description>
+    </item>
+    
+    <item>
+      <title>Terminal Monotony</title>
+      <link>https://www.scorch.org/archives/terminal-monotony/</link>
+      <pubDate>Sun, 07 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/terminal-monotony/</guid>
+      <description>My coding fruition reaches new lows as it&amp;rsquo;s taken nearly 10 weeks to implement a save game feature. My god that was dull. In the end though, it actually turned out easier, and more monotonous than I thought. Loading all the data in and bootstrapping the game at whatever screen I&amp;rsquo;ve chosen was a minimum of fuss and did show up some bad design decisions made during my &amp;ldquo;just get it in and working&amp;rdquo; coding sprees.</description>
+    </item>
+    
+    <item>
+      <title>I just go icky ficky!</title>
+      <link>https://www.scorch.org/archives/i-just-go-icky-ficky/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/i-just-go-icky-ficky/</guid>
+      <description>.. I just go, icky ficky ficky!
+It&amp;rsquo;s all getting a bit out of control. The mythtv box, which I&amp;rsquo;m now running tt-rss and roundcube on frequently crashes running out of memory. Turns out it&amp;rsquo;s only ever had 1 GB of ram in it which is pretty good going for a combined back/frontend. I&amp;rsquo;ve had to disable apache to keep the WAF. I&amp;rsquo;ve ordered a Zotac ND22 for a frontend from PriceUSA (about $300 delivered) and it&amp;rsquo;s on its way.</description>
+    </item>
+    
+    <item>
+      <title>Serialised Monotony</title>
+      <link>https://www.scorch.org/archives/serialised-monotony/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/serialised-monotony/</guid>
+      <description>I&amp;rsquo;m now starting to implement the savegame feature in Traction Edge. A worthwhile and necessary task that&amp;rsquo;s sure to propel it into the annals of gaming history. It&amp;rsquo;s incredibly tedious though. I&amp;rsquo;m using TinyXML so that&amp;rsquo;s the file IO burden removed but trawling through all the objects needing to be saved out is already irritating me and I&amp;rsquo;ve only been at it for an hour.
+Still, it can&amp;rsquo;t all be glamourous coding of AI and accidentally asymmetric field of view algorithms can it?</description>
+    </item>
+    
+    <item>
+      <title>Exit The Cloud - One Month On</title>
+      <link>https://www.scorch.org/archives/exit-the-cloud-one-month-on/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exit-the-cloud-one-month-on/</guid>
+      <description>So where are a month after my tirade against the oppression of freedom and liberty?
+Macbook Pro has been sold. They hold their value quite well and the money from it (a 4 year old machine) paid for the build of my new Debian desktop plus some left over. That, plus the cash from my HTC Desire leaves me some $500 in profit from this venture.
+Debian and the WAF. Photo management is lacking in linux.</description>
+    </item>
+    
+    <item>
+      <title>Reactions</title>
+      <link>https://www.scorch.org/archives/reactions/</link>
+      <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/reactions/</guid>
+      <description>An important feature of any XCom-a-like is opportunity fire, or reaction fire. This means when you click to move your wee man and he starts moving towards his destination, if an enemy see&amp;rsquo;s him there&amp;rsquo;s a chance of the opposition getting a free shot at him, during your turn, if they have action points and win some kind of initiative. This also means that you can &amp;ldquo;save&amp;rdquo; points during your turn for possible reaction fire during the enemies turn.</description>
+    </item>
+    
+    <item>
+      <title>Exited The Cloud #7</title>
+      <link>https://www.scorch.org/archives/exited-the-cloud-7/</link>
+      <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exited-the-cloud-7/</guid>
+      <description>I&amp;rsquo;m about 90% towards where I wanted to be which is pretty good. Let&amp;rsquo;s see the score card.
+Cloud
+ GMail  Replaced by Fastmail.fm. This is still cloud side but self hosting email is a nasty business. My self hosting platform is still immature. I do have a self hosted roundcube though for accessing it from anywhere (work).
+ Google Reader  Replaced by self hosted Tiny Tiny RSS. Works really well.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #6</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-6/</link>
+      <pubDate>Sat, 05 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-6/</guid>
+      <description>In order to dump the Mac I need to replace it with something that meets the equivalent Wife Acceptance Factor. I&amp;rsquo;ve managed to lower the WAF a bit by explaining why I&amp;rsquo;m doing this. She appears to agree, or at the very least, allowed me to my madness.
+I&amp;rsquo;ve knocked up her a user on Debian. Made it nice and purple and put her usual apps in a dock similar to the Mac.</description>
+    </item>
+    
+    <item>
+      <title>Traction Edge: Stable AI</title>
+      <link>https://www.scorch.org/archives/traction-edge-stable-ai/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/traction-edge-stable-ai/</guid>
+      <description>My second iteration of TE&amp;rsquo;s AI has finally reached some kind of stability. It&amp;rsquo;s the first draft of a fairly basic state machine with a few bits of bandaid over my rushed code.
+The FSM consists of Patrol state, Attack State and Run State. Each state, during update will run an awareness update (process fov) then make some decisions based on what it can see and also what the creatures present condition is.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #5</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-5/</link>
+      <pubDate>Thu, 24 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-5/</guid>
+      <description>Traction Edge is now officially over at Sourceforge. I&amp;rsquo;m quite happy with this as Sourceforge&amp;rsquo;s kit is a level up from Googlecodes in terms of functions. I now get to make a pretty website for TE.
+I&amp;rsquo;ve also made inroads into self hosting but it takes some work. My initial plan is to replace Google Reader with Tiny Tiny RSS. Apache though, if you haven&amp;rsquo;t done much work with it, takes a bit of kicking to get into shape.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #4</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-4/</link>
+      <pubDate>Thu, 17 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-4/</guid>
+      <description>I&amp;rsquo;ve been angling towards self hosting over the last couple of days. Firstly I just shrugged off the idea as being too much hassle, possibly costly, difficult to maintain etc. The more I thought about it the more I warmed to it though. I mean, all I need to do is poke some holes for what I need (www only really) and make sure I have a proper backup. I&amp;rsquo;d start off with SVN, move this blog there, integrated some video streaming plugin for the clan to what kidlet videos and then think about tackling mail.</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #3</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-3/</link>
+      <pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-3/</guid>
+      <description>So actually ignoring the cloud for the moment and returning to Kitten Ranch. The primary offender onsite is our MacBook Pro. This, being the main computer, was purchased and put in operation because &amp;ldquo;it just works&amp;rdquo;. After years of faffing around with Linux I wanted something stable and good. Good it has been. It&amp;rsquo;s fast, stable, Hazel mostly likes it and it does it&amp;rsquo;s job well. How far can we extract ourselves from it though?</description>
+    </item>
+    
+    <item>
+      <title>Exiting The Cloud #1</title>
+      <link>https://www.scorch.org/archives/exiting-the-cloud-1/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/exiting-the-cloud-1/</guid>
+      <description>So the Exit The Cloud/Be A Bolshy Arse strategy is underway.
+Let&amp;rsquo;s see how we&amp;rsquo;re doing so far.
+Apple
+My home PC is a Macbook Pro. I need to install and use Linux on it instead.
+ Debian Squeeze is (probably) released next week. I&amp;rsquo;ll assess that then.  Social Networking
+I have an identi.ca and twitter account. Noone uses Identi.ca and I’ve only started using Twitter since the floods. I can easily cancel both accounts.</description>
+    </item>
+    
+    <item>
+      <title>The Importance Of Being Open</title>
+      <link>https://www.scorch.org/archives/the-importance-of-being-open/</link>
+      <pubDate>Sat, 29 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/the-importance-of-being-open/</guid>
+      <description>Last week at LCA2011, Mark Pesce delivered a compelling keynote speech on privacy. His premise was this;
+We are enticed into giving up information about ourselves to closed systems. Facebook being the worst offender. The kind of data we give up forms a social graph. This graph can be used through the phenomenon of mimesis to manipulate us.
+Let me explain that a bit more incase you&amp;rsquo;ve failed to read Mark&amp;rsquo;s entire post.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Molly Catherine Hamilton</title>
+      <link>https://www.scorch.org/archives/molly-catherine-hamilton/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/molly-catherine-hamilton/</guid>
+      <description>&amp;gt;Bubzilla #2 arrived yesterday 31st December 2009 at 5.17pm with no drama at all. Hazel had some &amp;ldquo;stomach pains&amp;rdquo; overnight which developed into minor contractions in the morning. After all the chaos of Cooper&amp;rsquo;s birth we were reluctant to even phone in, only to be sent home again. However, they were fairly regular and speeding up fast. 15 mins apart at 9am then 10mins apart at 1pm. We phoned in, Cooper was at daycare and in we went with bags packed.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah 0.6.3 kicked out the door</title>
+      <link>https://www.scorch.org/archives/moolah-0-6-3-kicked-out-the-door/</link>
+      <pubDate>Wed, 10 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-0-6-3-kicked-out-the-door/</guid>
+      <description>&amp;gt;It&amp;rsquo;s quite alarming that the more I hack on moolah the more bugs I find and probably the more I introduce. I&amp;rsquo;m just not paying attention and applying the correct gumption in learning to code tightly and more professionally. My coding time is so limited that it always boils down to be a case of &amp;lsquo;get it in, ooh it works, let&amp;rsquo;s not bother tidying it up, right what&amp;rsquo;s next?&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>&gt;More maintenance</title>
+      <link>https://www.scorch.org/archives/more-maintenance/</link>
+      <pubDate>Fri, 15 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/more-maintenance/</guid>
+      <description>&amp;gt;Getting quite large chunks of dev time on moolah recently but it all seems to be going on maintenance of the existing code. I&amp;rsquo;m still not what you would call an experienced Cocoa coder but even already I look back at previous code and think wtf! I&amp;rsquo;m almost embarrassed to be in the same room as myself.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah dev overboard</title>
+      <link>https://www.scorch.org/archives/moolah-dev-overboard/</link>
+      <pubDate>Wed, 25 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-dev-overboard/</guid>
+      <description>&amp;gt;Well ok, not quite overboard but at very least we&amp;rsquo;ve left the marina. After a lovely hiatus of drinking cheap wine, eating biscuits and playing Mass Effect I&amp;rsquo;ve picked up moolah dev again. It always gets a bit slow when something I&amp;rsquo;m writing reaches a functional level that I&amp;rsquo;m happy with myself but I&amp;rsquo;ve reached a point now where certain things are pissing even me off. Like the disorderly budget window, the slow transaction updates, the crash if you click save too quick and the complete lack of reporting and search functions.</description>
+    </item>
+    
+    <item>
+      <title>I love wood with wood on it</title>
+      <link>https://www.scorch.org/archives/i-love-wood-with-wood-on-it/</link>
+      <pubDate>Thu, 08 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/i-love-wood-with-wood-on-it/</guid>
+      <description>Trainset by Toys&amp;rsquo;r&amp;rsquo;Us. Table by Ozzy. After the Thomas Tank engine exhibition at the Ipswich railway museum I realised we needed a table quicksmart so I got stuck into it. What we have here is a mitred frame surrounded by a larger mitred frame to provide a lip and facia. The legs are fixed to both the frame and facia with gold coloured bolts. The table top is standard 15x600x900mm MDF which is double sided.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah v0.6 - Thoughts on releases</title>
+      <link>https://www.scorch.org/archives/moolah-v0-6-thoughts-on-releases/</link>
+      <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-v0-6-thoughts-on-releases/</guid>
+      <description>&amp;gt;A few weeks ago I knocked out the first release of moolah. This, being 0.5 and pretty rough, was done under the &amp;ldquo;release early, release often&amp;rdquo; advice that google and many other Open Source developers preach. Does this really hold for a Mac app though? In general, Mac users aren&amp;rsquo;t used to unfinished, unpolished, buggy apps. They&amp;rsquo;re a bit &amp;ldquo;ordinary&amp;rdquo; (I suppose you could almost say snobby) in that they like they&amp;rsquo;re apps to be v1.</description>
+    </item>
+    
+    <item>
+      <title>&gt;CoopCamp #1</title>
+      <link>https://www.scorch.org/archives/coopcamp-1/</link>
+      <pubDate>Sun, 02 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/coopcamp-1/</guid>
+      <description>&amp;gt;This weekend we went camping for the first time since The Miniskreeg showed up. I have a camping checklist and it now has a &amp;ldquo;Cooper&amp;rdquo; section in it with unforgettable items like dummies, portacots and ehgoo&amp;rsquo;s. Camping always has something missing but the impact of forgetting the unforgettable when there&amp;rsquo;s a baby involved is a magnitute greater than normal. Luckily, all we forgot was good weather, which was both a blessing and a curse.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Swim swim swim!</title>
+      <link>https://www.scorch.org/archives/swim-swim-swim/</link>
+      <pubDate>Tue, 28 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/swim-swim-swim/</guid>
+      <description>&amp;gt;The trick to a happy evening is to tire the child out during the day. Keeping him &amp;ldquo;cooped&amp;rdquo; up in the house drives everyone nuts so at weekends we like to get out places. Cooper loves pools, water, skiddling, anything wet related. Sunday we took him up to the Redcliffe lagoon which is a nice pool area beside the seaside. This kid is going to be swimming unaided before he&amp;rsquo;s 3 I reckon.</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolahDev</title>
+      <link>https://www.scorch.org/archives/moolahdev/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolahdev/</guid>
+      <description>&amp;gt;One thing I&amp;rsquo;ve noticed when reading a lot of dev blogs is that people get burnt out and take a break. I&amp;rsquo;ve just hit the same thing and now realise why. I was on a coding splurge, believing I was close to getting moolah to a point where I could run it &amp;ldquo;in production&amp;rdquo; with my own accounts. Some odd things started happening and I realised a whole chunk of calculating code is all wrong and does exactly what a frog does when trying to get to the other side a river with a jumping strategy that involves each new jump being exactly half the distance of the last one.</description>
+    </item>
+    
+    <item>
+      <title>Toybox complete</title>
+      <link>https://www.scorch.org/archives/toybox-complete/</link>
+      <pubDate>Sun, 26 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/toybox-complete/</guid>
+      <description>Actually its been complete for a while but I&amp;rsquo;m just slow at getting pictures online. It&amp;rsquo;s turned out great for something made out of scrap wood by an IT bloke who knows nothing about wood (I love wood). Everything a toddler could ask for. Nice bright paint, heavy duty varnish and a chain to trap the fingers when gravity and the lid conspire against him (again).
+{% img /static/images/img_2830.jpg 640 %}</description>
+    </item>
+    
+    <item>
+      <title>&gt;moolah for Mac</title>
+      <link>https://www.scorch.org/archives/moolah-for-mac/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/moolah-for-mac/</guid>
+      <description>&amp;gt;As I said below I&amp;rsquo;m now a budding Mac developer. To learn any programming language I always need a personal project that fills a gap that can&amp;rsquo;t be filled from anywhere else. In this case its a decent personal finance program. Out recent run in with the bank manager has left us a bit strapped and I always new cash flow was a bit of a problem since we moved here.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Incursion Roguelike</title>
+      <link>https://www.scorch.org/archives/incursion-roguelike/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/incursion-roguelike/</guid>
+      <description>&amp;gt;For some reason I never got around to writing about this before. Some months ago I decided to get into Mac software development but being a jaded gamer that can&amp;rsquo;t see to stay on the wagon I was addicted to a game called Incursion-Roguelike. Incursion is a classic roguelike in the same vein as the famous Nethack and Adom but uses the D20 ruleset from Wizards of the Coast. Think a Nethack version of Neverwinter Nights and you have it.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Miniskreeg walks!</title>
+      <link>https://www.scorch.org/archives/miniskreeg-walks/</link>
+      <pubDate>Sat, 13 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/miniskreeg-walks/</guid>
+      <description>&amp;gt;Well he took his time getting around to it but at 1 year and 2 days little Miniskreeg finally decided to start walking on his own. It&amp;rsquo;s like a switch has just turned on enabling him to do it. Amazingly, we caught it on video as well. Here we go.
+http://vimeo.com/moogaloop.swf?clip_id=1722270&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1
+I&amp;rsquo;m trying out Vimeo instead of youtube this time as I hear the quality is better.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Skreegles</title>
+      <link>https://www.scorch.org/archives/skreegles/</link>
+      <pubDate>Sat, 12 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/skreegles/</guid>
+      <description>&amp;gt;A brief update of what can be described in business speak as &amp;ldquo;where we&amp;rsquo;re at and what we look like going forward&amp;rdquo;.
+HousePainters are finishing off the outside next week. The project is then complete with only the inside to be finished. We&amp;rsquo;re trying to get that done quick smart as Coop is almost needing somewhere to stretch his legs.
+CarsDisaster: The Beast has a busted gearbox. No idea whats wrong but its going to involve dropping the box out the thing and taking a look at whats most likely pieces of shrapnel.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Blather #1</title>
+      <link>https://www.scorch.org/archives/blather-1/</link>
+      <pubDate>Wed, 28 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/blather-1/</guid>
+      <description>&amp;gt;Today&amp;rsquo;s an oddly grey day and apparently its supposed to rain all week. We get so used to Brisbane weather with its clear blue skies and comfortable temperatures during the non-summer months that its actually surprising and a little perplexing when its overcast. Its just so unusual to see.
+I&amp;rsquo;m off ill yesterday and today with what is an excellent effort by Cooper to kill off his dad with exotic diseases from daycare.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Cooper vids</title>
+      <link>https://www.scorch.org/archives/cooper-vids/</link>
+      <pubDate>Wed, 28 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/cooper-vids/</guid>
+      <description>&amp;gt;A whole buncha new Miniskreeg vids courtesy of glootube. He&amp;rsquo;s 8.5 months now and crawling, laughin, grabbing, screamin, falling, hurting, laughing, crawling, crawling and crawling. Did I say he could crawl?
+http://www.youtube.com/p/0FB67FE2B571AED8
+There&amp;rsquo;s 6 videos in all. You click on the little grey bits left and right to change between them. If thats too hard you can go here.</description>
+    </item>
+    
+    <item>
+      <title>&gt;7 months on</title>
+      <link>https://www.scorch.org/archives/7-months-on/</link>
+      <pubDate>Mon, 14 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/7-months-on/</guid>
+      <description>&amp;gt;Hard to believe Cooper is 7 months old now. When I look at him now its very hard to remember the little baby he used to be. He&amp;rsquo;s changed so much and is more a little boy now than a baby. He&amp;rsquo;s still got the cold and has done ever since he started daycare. Toblerones are few and far between as well which makes us worry slightly about another relapse into compact bowel mode.</description>
+    </item>
+    
+    <item>
+      <title>Sorry Mr Bank Manager...</title>
+      <link>https://www.scorch.org/archives/sorry-mr-bank-manager/</link>
+      <pubDate>Sun, 24 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/sorry-mr-bank-manager/</guid>
+      <description>&amp;hellip;but I had to do it. While I have cash in the bank I decided to buy another car. We&amp;rsquo;ve up/downgraded to a 1999 Pajero (Shogun to old world folks). Its got real low mileage and its real clean for an 8 year old car. It does however, have a heart breaking 3.5ltr petrol donk in it. The reasoning is that in order to go camping we need more space. Baby + Car seat + Camping gear does not in any way equal a Grande Vitara so it has to go and I owe nature a slice of my soul when I die.</description>
+    </item>
+    
+    <item>
+      <title>Woah there slow down!</title>
+      <link>https://www.scorch.org/archives/woah-there-slow-down/</link>
+      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/woah-there-slow-down/</guid>
+      <description>7 days of builders doing stuff so far and they&amp;rsquo;ve done a hella lot. Amazing what you can do when someones giving you money to do it. Stuff done so far? Deck ripped up, sealed and nearly tiled, new concrete slab down underneath, round side and behind carport for the tank. Posts and cross timbers in for car port. Frame up for walls and back extension. There&amp;rsquo;s stuff just everywhere. Its like some mad builders construction bomb has went off.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Coopermergency</title>
+      <link>https://www.scorch.org/archives/coopermergency/</link>
+      <pubDate>Thu, 07 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/coopermergency/</guid>
+      <description>&amp;gt;Lille Cooperman was rushed into the hozzie last friday morning. Some violent vomiting followed by going limp and extremely white prompted us to get an ambulance pronto. 3 hours and an ultrasound later confirmed it as an&amp;hellip;. wait for it&amp;hellip;.. intersusection of the bowel. Yeah I know, wtf is that you say? Its when the bowel, not being the brightest organ in the trunk decides to push itself into itself telescopic style.</description>
+    </item>
+    
+    <item>
+      <title>I love wood...</title>
+      <link>https://www.scorch.org/archives/i-love-wood/</link>
+      <pubDate>Thu, 07 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/i-love-wood/</guid>
+      <description>&amp;hellip; and just look at how much of it I&amp;rsquo;ve bought.
+Yep, a little over a year and 2 months after getting plans drawn up we&amp;rsquo;ve finally got movement on the Kitten Ranch Expansion Project (KREP). We&amp;rsquo;ve got wood, steel beams, some concrete sheeting and a big feck off rusty builders trailer full of hidden secrets and black mojo. Rumour has it there&amp;rsquo;s some builders showing up at some point tomorrow to start dismantling the rear deck.</description>
+    </item>
+    
+    <item>
+      <title>&gt;A finer cog count on the sprocket of time.</title>
+      <link>https://www.scorch.org/archives/a-finer-cog-count-on-the-sprocket-of-time/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/a-finer-cog-count-on-the-sprocket-of-time/</guid>
+      <description>&amp;gt;Time these days is weird. Time used to work like this. You would do stuff, then do more stuff, then even more stuff then say something like &amp;ldquo;geez where has the last year went&amp;rdquo; or &amp;ldquo;remember that stuff we done? That was five years ago what happened?&amp;quot;. This is because in general every day terms not a lot changes that fast. You age so slowly you don&amp;rsquo;t notice it until you try and do Kung Fu.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Reno fun.</title>
+      <link>https://www.scorch.org/archives/reno-fun/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/reno-fun/</guid>
+      <description>&amp;gt;We&amp;rsquo;ve finally, nine months after getting plans drawn up, engaged a builder to start the extension of Freedom Cottage. However, 2 months in and engaged is all we&amp;rsquo;ve managed to do. Windows and steel is ordered but there&amp;rsquo;s some trouble with the concrete slab underneath. The council here demand thousands of dollars if you want to change your curtains and the certifier wants proof the slab underneath if cool. This is a problem.</description>
+    </item>
+    
+    <item>
+      <title>&gt;God is weird</title>
+      <link>https://www.scorch.org/archives/god-is-weird/</link>
+      <pubDate>Wed, 31 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/god-is-weird/</guid>
+      <description>&amp;gt;After the emergence of Sprogzilla I&amp;rsquo;ve gave a bit of thought towards Intelligent Design. The extremes of the birthing process, from the pain of delivery to the love of the result, seems too freakish to be the product of just random evolution.
+Another factor lending credence to this theory is one of limbs. We&amp;rsquo;ve discovered that the average parent requires a minimum of three arms to successfully administer to the needs of a baby.</description>
+    </item>
+    
+    <item>
+      <title>Cooper James Hamilton. The Birth.</title>
+      <link>https://www.scorch.org/archives/cooper-james-hamilton-the-birth/</link>
+      <pubDate>Mon, 17 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/cooper-james-hamilton-the-birth/</guid>
+      <description>Cooper James Hamilton was born on 11/09/2007 at 18.10 weighing 8lbs 9oz and this is his story.
+Monday 5am
+Mum jumps out of bed having felt her waters break. Excitement takes hold, we phone the hospital and they tell us to come in. We, probably naively, phone relatives and we get into the hospital at about 7am. An examination ensues and membranes are still present over the babies head. Waters can break up behind the babies head but though they can&amp;rsquo;t confirm this they treat it like it&amp;rsquo;s broken anyway.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Double Ding</title>
+      <link>https://www.scorch.org/archives/double-ding/</link>
+      <pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/double-ding/</guid>
+      <description>&amp;gt;Due date today. Last 24 hours Hazel&amp;rsquo;s been having slight painful contractions randomly between 14 and 30 minutes. Still can&amp;rsquo;t be called the start of labour but it does make me think somethings gonna happen in the next couple of days. Let&amp;rsquo;s take a guess at a hospital visit Monday morning. Let&amp;rsquo;s say I have to go to work on Monday morning then have to come home again as soon as I get there.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Ding! Time&#39;s up</title>
+      <link>https://www.scorch.org/archives/ding-times-up/</link>
+      <pubDate>Fri, 17 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/ding-times-up/</guid>
+      <description>&amp;gt;Yay! Today the bell finally when on the Oven of Sprogzilla. MiniSkreeg is now 37 weeks and full term. Come out and tidy your room! We&amp;rsquo;re basically just waiting now. Everything is prepared, room ready, little socks ironed, hospital bags packed. All we need now is a good ol&amp;rsquo; flex of the uterus.
+I suppose I should write something about how I feel coming up to this life changing event but I find the gestation process, and the preparation work you do during it has taken so long that it&amp;rsquo;s kinda taken away some of the impact.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Glasshouse Mountains</title>
+      <link>https://www.scorch.org/archives/glasshouse-mountains/</link>
+      <pubDate>Fri, 17 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/glasshouse-mountains/</guid>
+      <description>&amp;gt;Oh the joy of a non-updated blog.
+While the outlaws were visiting over July time I exploited the presence of 2 larger males in the group as a reason to wheeling. We met up with a ragtag log from the Outerlimits4x4 forum and off we went into the bush at the Glasshouse Mountains. This is an area the zook club go to quite often but somehow I&amp;rsquo;ve never got there. The trouble with going with the Outerlimits crew is since it&amp;rsquo;s not an official club the trip is lacking a certain feeling of safety and responsibility.</description>
+    </item>
+    
+    <item>
+      <title>&gt;Gadget Detox</title>
+      <link>https://www.scorch.org/archives/gadget-detox/</link>
+      <pubDate>Sun, 24 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/gadget-detox/</guid>
+      <description>&amp;gt;For some bizarre reason I decided to spend the entire week free of gadgets. No mobile phone, no mp3 player, no nintendo DS and no computer at home for 7 days. Is this actually possible for a Type A personality that&amp;rsquo;s been gaming since 1982? No it&amp;rsquo;s not.
+Last Sunday went ok. I got on with some DIY, dug a hole, found a pipe, broke a pipe, fixed a pipe then realised the pipe was in the wrong place so it was no use to me anyway.</description>
+    </item>
+    
+    <item>
+      <title>Myth PoC</title>
+      <link>https://www.scorch.org/archives/myth-poc/</link>
+      <pubDate>Sat, 12 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/myth-poc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Press Play On Tape</title>
+      <link>https://www.scorch.org/archives/more-press-play-on-tape/</link>
+      <pubDate>Thu, 03 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/more-press-play-on-tape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pumpkin Man</title>
+      <link>https://www.scorch.org/archives/pumpkin-man/</link>
+      <pubDate>Thu, 03 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/pumpkin-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beast Carnage</title>
+      <link>https://www.scorch.org/archives/beast-carnage/</link>
+      <pubDate>Mon, 09 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/beast-carnage/</guid>
+      <description>Gran and Grandpa Skreeg were over visiting during the last month. I thought it would be nice to take Grandpa Skreeg out &amp;ldquo;wheeling&amp;rdquo; in The Beast[tm], a 1992 Suzuki Sierra. It&amp;rsquo;s pretty much stock with only a body lift and 29&amp;rdquo; tyres on it but I love it to bits. It&amp;rsquo;s good fun. Anyway, ol Papa Skreeg used to do a bit of rally driving in his younger years and spent most of life hotting up cars in some form or another so you&amp;rsquo;d think he would be able to pick a line in a 4wd travelling at less than walking speed.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Miniskreeg</title>
+      <link>https://www.scorch.org/archives/introducing-miniskreeg/</link>
+      <pubDate>Sun, 08 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/introducing-miniskreeg/</guid>
+      <description>The 13 week scan was over a month ago now but no less a significant event now than it was then. I&amp;rsquo;ve always looked at pictures of other peoples scans with almost complete disinterest. A static photo just simply doesn&amp;rsquo;t do the event justice. The image is basically a real time &amp;ldquo;slice&amp;rdquo; of the baby and surrounding paraphernalia. Each frame taken by itself looks like a mess but with the doctor moving the &amp;ldquo;camera&amp;rdquo; back and forth the image constantly changes.</description>
+    </item>
+    
+    <item>
+      <title>Rate My Egg</title>
+      <link>https://www.scorch.org/archives/rate-my-egg/</link>
+      <pubDate>Sun, 08 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/rate-my-egg/</guid>
+      <description>It&amp;rsquo;s Happy Zombie Jesus weekend and we&amp;rsquo;ve done our eggs. Which one is best? The loser gets rolled a lot faster than a mortal ovum can survive.
+Judge Egg.
+[]: http://bp0.blogger.com/_MKqlq3WVEmY/RhiG9TnBYbI/AAAAAAAAAAk/aHwu-Chrhvg/s320/00020.jpg [![][]]: http://bp0.blogger.com/_MKqlq3WVEmY/RhiG9TnBYbI/AAAAAAAAAAk/aHwu-Chrhvg/s1600-h/00020.jpg [1]: http://bp3.blogger.com/_MKqlq3WVEmY/RhiHUDnBYcI/AAAAAAAAAAs/2nPVKdJe5lI/s320/00021.jpg [![][1]]: http://bp3.blogger.com/_MKqlq3WVEmY/RhiHUDnBYcI/AAAAAAAAAAs/2nPVKdJe5lI/s1600-h/00021.jpg</description>
+    </item>
+    
+    <item>
+      <title>Welcome to The Skreegs online!</title>
+      <link>https://www.scorch.org/archives/welcome-to-the-skreegs-online/</link>
+      <pubDate>Sun, 08 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.scorch.org/archives/welcome-to-the-skreegs-online/</guid>
+      <description>It seems this internet thing is quite popular and I see lots of people like to write blog thingies about their lives so other folk can see how much more dull there&amp;rsquo;s is in comparison. In an effort to make ours less dull I&amp;rsquo;ve decided to start writing a blog thingy myself. Hey, I&amp;rsquo;ve only written a couple of sentences and I can feel my life becoming more interesting already. It really works!</description>
+    </item>
+    
+  </channel>
+</rss>
